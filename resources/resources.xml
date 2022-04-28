@@ -3,9 +3,24 @@
 		<font id="Steps_Font" filename="fonts/Steps_Font.fnt"/>
 		<font id="Steps_Font_Small" filename="fonts/Steps_Font_Small.fnt"/>
 		<font id="Battery_Font" filename="fonts/Battery_Font.fnt"/>
+		<font id="id_font_black_diamond" filename="fonts/blackdiamond.fnt" filter="0123456789" />
 	</fonts>
 	
 	<drawables>
     	<bitmap id="LauncherIcon" filename="drawables/launcher_icon.png" />
+    	<bitmap id="DoNotDisturbIcon" filename="images/donotdisturb.png">
+        <palette>
+            <color>000000</color>
+        </palette>
+    </bitmap>
+	<bitmap id="BoagsLogo2" filename="drawables/XXX_280px.png" compress="true" automaticPalette="true">
+	    <!--<palette>
+            <color>282524</color>
+			<color>fff9f8</color>
+			<color>cd3225</color>
+			<color>ded177</color>
+			<color>af8c3f</color>	
+        </palette>-->
+	</bitmap>
 	</drawables>
 </resources>

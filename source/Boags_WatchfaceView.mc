@@ -33,11 +33,12 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
 
         // If this device supports the Do Not Disturb feature,
         // load the associated Icon into memory.
+        /*
         if (System.getDeviceSettings() has :doNotDisturb) {
             _dndIcon = WatchUi.loadResource($.Rez.Drawables.DoNotDisturbIcon) as BitmapResource;
         } else {
             _dndIcon = null;
-        }
+        }*/
 
         // If this device supports BufferedBitmap, allocate the buffers we use for drawing
         if (Graphics has :BufferedBitmap) {
@@ -67,10 +68,11 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
             // screen. This buffer is also used for blanking the second hand. This full
             // color buffer is needed because anti-aliased fonts cannot be drawn into
             // a buffer with a reduced color palette
+            /*
             _dateBuffer = new Graphics.BufferedBitmap({
                 :width=>dc.getWidth(),
                 :height=>Graphics.getFontHeight(Graphics.FONT_MEDIUM)
-            });
+            });*/
         } else {
             _offscreenBuffer = null;
         }
@@ -160,10 +162,10 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
         drawHashMarks(targetDc);
 
         // Draw the do-not-disturb icon if we support it and the setting is enabled
-        var dndIcon = _dndIcon;
+        /*var dndIcon = _dndIcon;
         if ((null != dndIcon) && System.getDeviceSettings().doNotDisturb) {
             targetDc.drawBitmap(width * 0.75, height / 2 - 15, dndIcon);
-        }
+        }*/
 
         // Use white to draw the hour and minute hands
         targetDc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
@@ -173,7 +175,7 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
         hourHandAngle = hourHandAngle / (12 * 60.0);
         hourHandAngle = hourHandAngle * Math.PI * 2;
 
-        targetDc.fillPolygon(generateHandCoordinates(_screenCenterPoint, hourHandAngle, 70, 0, 5));
+        targetDc.fillPolygon(generateHandCoordinates(_screenCenterPoint, hourHandAngle, 80, 0, 5));
 
         // Draw the minute hand.
         var minuteHandAngle = (clockTime.min / 60.0) * Math.PI * 2;
@@ -181,7 +183,7 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
 
         // Draw the arbor in the center of the screen.
         targetDc.setColor(Graphics.COLOR_WHITE,Graphics.COLOR_BLACK);
-        targetDc.drawCircle(width / 2, height / 2, 10);
+        targetDc.fillCircle(width / 2, height / 2, 7);
 
         // Draw the 3, 6, 9, and 12 hour labels.
         /*var font = _font;
@@ -228,7 +230,7 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
             dc.setColor(Graphics.COLOR_RED, Graphics.COLOR_TRANSPARENT);
             var secondHand = (clockTime.sec / 60.0) * Math.PI * 2;
 
-            dc.fillPolygon(generateHandCoordinates(_screenCenterPoint, secondHand, 60, 20, 3));
+            dc.fillPolygon(generateHandCoordinates(_screenCenterPoint, secondHand, 100, 20, 3));
         }
 
         _fullScreenRefresh = false;
@@ -245,7 +247,7 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
         }
         var clockTime = System.getClockTime();
         var secondHand = (clockTime.sec / 60.0) * Math.PI * 2;
-        var secondHandPoints = generateHandCoordinates(_screenCenterPoint, secondHand, 60, 20, 3);
+        var secondHandPoints = generateHandCoordinates(_screenCenterPoint, secondHand, 100, 20, 3);
         // Update the clipping rectangle to the new location of the second hand.
         var curClip = getBoundingBox(secondHandPoints);
         var bBoxWidth = curClip[1][0] - curClip[0][0] + 1;
@@ -470,7 +472,7 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
         if (null != offscreenBuffer) {
             dc.drawBitmap(0, 0, offscreenBuffer);
         }
-
+/*
         // Draw the date
         var dateBuffer = _dateBuffer;
         if (null != dateBuffer) {
@@ -479,7 +481,7 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
         } else {
             // Otherwise, draw it from scratch.
             drawDateString(dc, width / 2, height / 4);
-        }
+        }*/
     }
 
     //! This method is called when the device re-enters sleep mode.

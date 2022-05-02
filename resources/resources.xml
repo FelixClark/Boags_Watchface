@@ -13,14 +13,6 @@
             <color>000000</color>
         </palette>
     </bitmap>
-	<bitmap id="BoagsLogo2" filename="drawables/XXX_280px.png" compress="true" automaticPalette="true">
-	    <!--<palette>
-            <color>282524</color>
-			<color>fff9f8</color>
-			<color>cd3225</color>
-			<color>ded177</color>
-			<color>af8c3f</color>	
-        </palette>-->
-	</bitmap>
+	<bitmap id="BoagsLogo" filename="drawables/XXX_280px.png" compress="true" automaticPalette="true"/>
 	</drawables>
 </resources>

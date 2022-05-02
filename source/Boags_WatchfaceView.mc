@@ -61,7 +61,7 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
             _offscreenBuffer = new Graphics.BufferedBitmap({
                 :width=>dc.getWidth(),
                 :height=>dc.getHeight(),
-                :bitmapResource=>WatchUi.loadResource($.Rez.Drawables.BoagsLogo2)
+                :bitmapResource=>WatchUi.loadResource($.Rez.Drawables.BoagsLogo)
             });
 
             // Allocate a buffer tall enough to draw the date into the full width of the
@@ -155,7 +155,7 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
         var width = targetDc.getWidth();
         var height = targetDc.getHeight();
 
-        var logo = WatchUi.loadResource($.Rez.Drawables.BoagsLogo2);
+        var logo = WatchUi.loadResource($.Rez.Drawables.BoagsLogo);
         targetDc.drawBitmap(0,0, logo);
 
         // Draw the tick marks around the edges of the screen
@@ -175,11 +175,11 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
         hourHandAngle = hourHandAngle / (12 * 60.0);
         hourHandAngle = hourHandAngle * Math.PI * 2;
 
-        targetDc.fillPolygon(generateHandCoordinates(_screenCenterPoint, hourHandAngle, 80, 0, 5));
+        targetDc.fillPolygon(generateHandCoordinates(_screenCenterPoint, hourHandAngle, width/2-50, 0, 5));
 
         // Draw the minute hand.
         var minuteHandAngle = (clockTime.min / 60.0) * Math.PI * 2;
-        targetDc.fillPolygon(generateHandCoordinates(_screenCenterPoint, minuteHandAngle, 110, 0, 5));
+        targetDc.fillPolygon(generateHandCoordinates(_screenCenterPoint, minuteHandAngle, width/2 - 20, 0, 5));
 
         // Draw the arbor in the center of the screen.
         targetDc.setColor(Graphics.COLOR_WHITE,Graphics.COLOR_BLACK);
@@ -230,7 +230,7 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
             dc.setColor(Graphics.COLOR_RED, Graphics.COLOR_TRANSPARENT);
             var secondHand = (clockTime.sec / 60.0) * Math.PI * 2;
 
-            dc.fillPolygon(generateHandCoordinates(_screenCenterPoint, secondHand, 100, 20, 3));
+            dc.fillPolygon(generateHandCoordinates(_screenCenterPoint, secondHand, width/2 - 20, 20, 3));
         }
 
         _fullScreenRefresh = false;
@@ -247,7 +247,7 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
         }
         var clockTime = System.getClockTime();
         var secondHand = (clockTime.sec / 60.0) * Math.PI * 2;
-        var secondHandPoints = generateHandCoordinates(_screenCenterPoint, secondHand, 100, 20, 3);
+        var secondHandPoints = generateHandCoordinates(_screenCenterPoint, secondHand, dc.getWidth()/2 - 20, 20, 3);
         // Update the clipping rectangle to the new location of the second hand.
         var curClip = getBoundingBox(secondHandPoints);
         var bBoxWidth = curClip[1][0] - curClip[0][0] + 1;
@@ -381,18 +381,19 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
         var height = dc.getHeight();
 
         dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
+        dc.setPenWidth(3);
         // Draw hashmarks differently depending on screen geometry.
         if (System.SCREEN_SHAPE_ROUND == _screenShape) 
         {
             var outerRad = width / 2;
-            var innerRad = outerRad - 10;
+            var innerRad = outerRad - 9;
             // Loop through each 15 minute block and draw tick marks.
             for (var i = Math.PI / 6; i <= 2*Math.PI; i += Math.PI/6) {
                 // Partially unrolled loop to draw two tickmarks in 15 minute block.
-                var sY = outerRad + innerRad * Math.sin(i);
-                var eY = outerRad + outerRad * Math.sin(i);
                 var sX = outerRad + innerRad * Math.cos(i);
+                var sY = outerRad + innerRad * Math.sin(i);
                 var eX = outerRad + outerRad * Math.cos(i);
+                var eY = outerRad + outerRad * Math.sin(i);
                 dc.drawLine(sX, sY, eX, eY);
             }
         } else 

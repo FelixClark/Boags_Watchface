@@ -2,7 +2,7 @@
     <fonts>
 		<font id="Steps_Font" filename="fonts/Steps_Font.fnt"/>
 		<font id="Steps_Font_Small" filename="fonts/Steps_Font_Small.fnt"/>
-		<font id="Battery_Font" filename="fonts/Battery_Font.fnt"/>
+		<font id="Battery_Font" filename="fonts/Battery_Font.fnt" antialias="false"/>
 		<font id="id_font_black_diamond" filename="fonts/blackdiamond.fnt" filter="0123456789" />
 	</fonts>
 	
@@ -14,5 +14,6 @@
         </palette>
     </bitmap>
 	<bitmap id="BoagsLogo" filename="drawables/XXX_280px.png" compress="true" automaticPalette="true"/>
+    <bitmap id="HeartSymbol" filename="drawables/heart.png" />  
 	</drawables>
 </resources>

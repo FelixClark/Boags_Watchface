@@ -8,6 +8,7 @@ import Toybox.WatchUi;
 
 class Boags_WatchfaceView extends WatchUi.WatchFace {
     private var _font as FontResource?;
+    private var _batteryFont as FontResource?;
     private var _isAwake as Boolean?;
     private var _screenShape as ScreenShape;
     private var _dndIcon as BitmapResource?;
@@ -16,6 +17,7 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
     private var _screenCenterPoint as Array<Number>?;
     private var _fullScreenRefresh as Boolean;
     private var _partialUpdatesAllowed as Boolean;
+    private var _heartSymbol as BitmapResource;
 
     function initialize() {
         WatchFace.initialize();
@@ -30,6 +32,8 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
         
         // Load the custom font we use for drawing the 3, 6, 9, and 12 on the watchface.
         _font = WatchUi.loadResource($.Rez.Fonts.id_font_black_diamond) as FontResource;
+        _batteryFont = WatchUi.loadResource($.Rez.Fonts.Battery_Font) as FontResource;
+        _heartSymbol = WatchUi.loadResource($.Rez.Drawables.HeartSymbol);
 
         // If this device supports the Do Not Disturb feature,
         // load the associated Icon into memory.
@@ -86,56 +90,9 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
     function onShow() as Void {
     }
 
- // Update the view
-    function onUpdate(dc) 
-    {
-/*
-        var timeView = View.findDrawableById("TimeLabel");
-        var topRedView = View.findDrawableById("TopRedLabel");
-        var bottomRedView = View.findDrawableById("BottomRedLabel");
-       	var rightView = View.findDrawableById("RightLabel"); 
-       	
-        // Get the current time and format it correctly
-        var timeFormat = "$1$:$2$";
-        var clockTime = System.getClockTime();
-        var hours = clockTime.hour;
-        if (!System.getDeviceSettings().is24Hour) {
-            if (hours > 12) {
-                hours = hours - 12;
-            }
-        } else {
-            if (Application.getApp().getProperty("UseMilitaryFormat")) {
-                timeFormat = "$1$$2$";
-                hours = hours.format("%02d");
-            }
-        }
-        
-        var timeString = Lang.format(timeFormat, [hours, clockTime.min.format("%02d")]);
-        //timeView.setText(timeString);
-
-		var info = Calendar.info(Time.now(), Time.FORMAT_LONG);
-		var dateString = Lang.format("$1$ $2$", [info.month, info.day]);
-		//topRedView.setText(dateString);		
-		
-		
-		//Steps
-		var activityInfo = ActivityMonitor.getInfo();
-		var steps = activityInfo.steps;
-		var calories = activityInfo.calories;
-		//bottomRedView.setText("S"+steps.toString());
-		
-        SetBatteryStatus();
-
-		
-		var heartRate = GetHeartRate();
-		rightView.setText(heartRate);
-*/
-        onUpdateNew(dc);
-    }
-
     //! Handle the update event
     //! @param dc Device context
-    public function onUpdateNew(dc as Dc) as Void {
+    public function onUpdate(dc as Dc) as Void {
         var screenWidth = dc.getWidth();
         var clockTime = System.getClockTime();
         var targetDc = null;
@@ -143,7 +100,7 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
         // We always want to refresh the full screen when we get a regular onUpdate call.
         _fullScreenRefresh = true;
         var offscreenBuffer = _offscreenBuffer;
-        if (null != offscreenBuffer) {
+        if (offscreenBuffer != null) {
             dc.clearClip();
             // If we have an offscreen buffer that we are using to draw the background,
             // set the draw context of that buffer as our target.
@@ -161,12 +118,6 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
         // Draw the tick marks around the edges of the screen
         drawHashMarks(targetDc);
 
-        // Draw the do-not-disturb icon if we support it and the setting is enabled
-        /*var dndIcon = _dndIcon;
-        if ((null != dndIcon) && System.getDeviceSettings().doNotDisturb) {
-            targetDc.drawBitmap(width * 0.75, height / 2 - 15, dndIcon);
-        }*/
-
         // Use white to draw the hour and minute hands
         targetDc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
 
@@ -174,7 +125,6 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
         var hourHandAngle = (((clockTime.hour % 12) * 60) + clockTime.min);
         hourHandAngle = hourHandAngle / (12 * 60.0);
         hourHandAngle = hourHandAngle * Math.PI * 2;
-
         targetDc.fillPolygon(generateHandCoordinates(_screenCenterPoint, hourHandAngle, width/2-50, 0, 5));
 
         // Draw the minute hand.
@@ -182,18 +132,7 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
         targetDc.fillPolygon(generateHandCoordinates(_screenCenterPoint, minuteHandAngle, width/2 - 20, 0, 5));
 
         // Draw the arbor in the center of the screen.
-        targetDc.setColor(Graphics.COLOR_WHITE,Graphics.COLOR_BLACK);
         targetDc.fillCircle(width / 2, height / 2, 7);
-
-        // Draw the 3, 6, 9, and 12 hour labels.
-        /*var font = _font;
-        if (font != null) {
-            targetDc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
-            targetDc.drawText(width / 2, 2, font, "12", Graphics.TEXT_JUSTIFY_CENTER);
-            targetDc.drawText(width - 15, (height / 2) - 15, font, "3", Graphics.TEXT_JUSTIFY_RIGHT);
-            targetDc.drawText(width / 2, height - 30, font, "6", Graphics.TEXT_JUSTIFY_CENTER);
-            targetDc.drawText(15, (height / 2) - 15, font, "9", Graphics.TEXT_JUSTIFY_LEFT);
-        }*/
 
         // If we have an offscreen buffer that we are using for the date string,
         // Draw the date into it. If we do not, the date will get drawn every update
@@ -212,13 +151,25 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
 
         // Output the offscreen buffers to the main display if required.
         drawBackground(dc);
+        
+        
+        //var info = Calendar.info(Time.now(), Time.FORMAT_LONG);
+		//var dateString = Lang.format("$1$ $2$", [info.month, info.day]);
+		//topRedView.setText(dateString);		
+        SetBatteryStatus(dc);
 
-        // Draw the battery percentage directly to the main screen.
-        /*
-        var dataString = (System.getSystemStats().battery + 0.5).toNumber().toString() + "%";
-        dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
-        dc.drawText(width / 2, 3 * height / 4, Graphics.FONT_TINY, dataString, Graphics.TEXT_JUSTIFY_CENTER);
-        */
+        var heartRate = GetHeartRate();
+        dc.drawBitmap(width - 47,height/2 - 25, _heartSymbol);
+        dc.drawText(width - 22, height/2 - 5, Graphics.FONT_TINY, heartRate, Graphics.TEXT_JUSTIFY_RIGHT);
+
+
+        //Steps
+		var activityInfo = ActivityMonitor.getInfo();
+		var steps = activityInfo.steps;
+        var _stepsFont = WatchUi.loadResource($.Rez.Fonts.Steps_Font) as FontResource;
+        dc.drawText(width/2, height*3/4 - 12, _stepsFont, "S"+steps.toString(), Graphics.TEXT_JUSTIFY_CENTER);
+
+
 
         if (_partialUpdatesAllowed) {
             // If this device supports partial updates and they are currently
@@ -253,17 +204,17 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
         var bBoxWidth = curClip[1][0] - curClip[0][0] + 1;
         var bBoxHeight = curClip[1][1] - curClip[0][1] + 1;
         dc.setClip(curClip[0][0], curClip[0][1], bBoxWidth, bBoxHeight);
-        
+         
         // Draw the second hand to the screen.
         dc.setColor(Graphics.COLOR_RED, Graphics.COLOR_TRANSPARENT);
         dc.fillPolygon(secondHandPoints);
     }
 
     
-    function SetBatteryStatus()
+    function SetBatteryStatus(dc as Dc)
     {
-        var leftView = View.findDrawableById("LeftLabel");
-        var batteryView = View.findDrawableById("BatteryLabel");
+        //var leftView = View.findDrawableById("LeftLabel");
+        //var batteryView = View.findDrawableById("BatteryLabel");
             
     	//Battery		
 		var stats = System.getSystemStats();
@@ -275,52 +226,56 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
 		}
 
 		var batStr = Lang.format( "$1$", [ pwr.format( "%2d" ) ] );
-		leftView.setText(batStr);
-		
+        var batSymbol;
+		//leftView.setText(batStr);
+
 		if(charging)
 		{
-			batteryView.setText("C");
+			batSymbol = "C";
 		}
 		else if(pwr > 90)
 		{
-			batteryView.setText("F");
+            batSymbol = "F";
 		}
 		else if(pwr > 80)
 		{
-			batteryView.setText("9");
+            batSymbol = "9";
 		}
 		else if(pwr > 70)
 		{
-			batteryView.setText("8");
+            batSymbol = "8";
 		}
 		else if(pwr > 60)
 		{
-			batteryView.setText("7");
+            batSymbol = "7";
 		}
 		else if(pwr > 50)
 		{
-			batteryView.setText("6");
+            batSymbol = "6";
 		}
 		else if(pwr > 40)
 		{
-			batteryView.setText("5");
+            batSymbol = "5";
 		}
 		else if(pwr > 30)
 		{
-			batteryView.setText("4");
+            batSymbol = "4";
 		}
 		else if(pwr > 20)
 		{
-			batteryView.setText("3");
+            batSymbol = "3";
 		}
 		else if(pwr > 10)
 		{
-			batteryView.setText("2");
+            batSymbol = "2";
 		}
 		else
 		{
-			batteryView.setText("1");
+            batSymbol = "1";
 		}
+            dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
+            dc.drawText(31, dc.getHeight()/2-25, _batteryFont, batSymbol, Graphics.TEXT_JUSTIFY_LEFT);
+        	dc.drawText(25, dc.getHeight()/2-5, Graphics.FONT_TINY, batStr, Graphics.TEXT_JUSTIFY_LEFT);
     }
     
     function GetHeartRate() 
@@ -470,7 +425,7 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
         // If we have an offscreen buffer that has been written to
         // draw it to the screen.
         var offscreenBuffer = _offscreenBuffer;
-        if (null != offscreenBuffer) {
+        if (offscreenBuffer != null) {
             dc.drawBitmap(0, 0, offscreenBuffer);
         }
 /*

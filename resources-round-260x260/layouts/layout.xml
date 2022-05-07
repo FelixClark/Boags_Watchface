@@ -1,5 +1,5 @@
 <layout id="WatchFace">
-        <bitmap id="BoagsLogo" x="center" y="center" filename="../../resources/drawables/XXX_260px.png" />
+        <!--<bitmap id="BoagsLogo" x="center" y="center" filename="../../resources/drawables/XXX_260px.png" />-->
         <!-- <bitmap id="BatterySymbol" x="20" y="120" filename="../drawables/Battery.png" /> -->
         <bitmap id="HeartSymbol" x="223" y="114" filename="../../resources/drawables/heart.png" />  
         

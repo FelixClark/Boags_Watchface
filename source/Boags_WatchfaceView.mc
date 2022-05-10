@@ -17,7 +17,8 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
     private var _screenCenterPoint as Array<Number>?;
     private var _fullScreenRefresh as Boolean;
     private var _partialUpdatesAllowed as Boolean;
-    private var _heartSymbol as BitmapResource;
+    private var _heartFont as FontResource?;
+    private var _heartRate as Number;
 
     function initialize() {
         WatchFace.initialize();
@@ -31,9 +32,9 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
         //setLayout(Rez.Layouts.WatchFace(dc));
         
         // Load the custom font we use for drawing the 3, 6, 9, and 12 on the watchface.
-        _font = WatchUi.loadResource($.Rez.Fonts.id_font_black_diamond) as FontResource;
+        _font = WatchUi.loadResource($.Rez.Fonts.Roboto_30px_Font) as FontResource;
         _batteryFont = WatchUi.loadResource($.Rez.Fonts.Battery_Font) as FontResource;
-        _heartSymbol = WatchUi.loadResource($.Rez.Drawables.HeartSymbol);
+        _heartFont = WatchUi.loadResource($.Rez.Fonts.Heart_Font) as FontResource;
 
         // If this device supports the Do Not Disturb feature,
         // load the associated Icon into memory.
@@ -63,11 +64,9 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
 
             
             _offscreenBuffer = new Graphics.BufferedBitmap({
-                :width=>dc.getWidth(),
-                :height=>dc.getHeight(),
-                :bitmapResource=>WatchUi.loadResource($.Rez.Drawables.BoagsLogo)
+                :bitmapResource=>WatchUi.loadResource($.Rez.Drawables.BoagsLogo)    
             });
-
+                //bitmapResource=>WatchUi.loadResource($.Rez.Drawables.HeartSymbol)
             // Allocate a buffer tall enough to draw the date into the full width of the
             // screen. This buffer is also used for blanking the second hand. This full
             // color buffer is needed because anti-aliased fonts cannot be drawn into
@@ -118,6 +117,20 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
         // Draw the tick marks around the edges of the screen
         drawHashMarks(targetDc);
 
+        SetBatteryStatus(targetDc);
+
+        _heartRate = GetHeartRate();
+        targetDc.drawText(width - 38,height/2 - 25, _heartFont,"g",Graphics.TEXT_JUSTIFY_CENTER);
+        targetDc.drawText(width - 38, height/2 - 5, _font, _heartRate, Graphics.TEXT_JUSTIFY_CENTER);
+
+
+        //Steps
+		var activityInfo = ActivityMonitor.getInfo();
+		var steps = activityInfo.steps;
+        var _stepsFont = WatchUi.loadResource($.Rez.Fonts.Steps_Font) as FontResource;
+        targetDc.drawText(width/2, height*3/4 - 12, _stepsFont, "S"+steps.toString(), Graphics.TEXT_JUSTIFY_CENTER);
+
+
         // Use white to draw the hour and minute hands
         targetDc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
 
@@ -156,18 +169,7 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
         //var info = Calendar.info(Time.now(), Time.FORMAT_LONG);
 		//var dateString = Lang.format("$1$ $2$", [info.month, info.day]);
 		//topRedView.setText(dateString);		
-        SetBatteryStatus(dc);
-
-        var heartRate = GetHeartRate();
-        dc.drawBitmap(width - 47,height/2 - 25, _heartSymbol);
-        dc.drawText(width - 22, height/2 - 5, Graphics.FONT_TINY, heartRate, Graphics.TEXT_JUSTIFY_RIGHT);
-
-
-        //Steps
-		var activityInfo = ActivityMonitor.getInfo();
-		var steps = activityInfo.steps;
-        var _stepsFont = WatchUi.loadResource($.Rez.Fonts.Steps_Font) as FontResource;
-        dc.drawText(width/2, height*3/4 - 12, _stepsFont, "S"+steps.toString(), Graphics.TEXT_JUSTIFY_CENTER);
+   
 
 
 
@@ -274,8 +276,8 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
             batSymbol = "1";
 		}
             dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
-            dc.drawText(31, dc.getHeight()/2-25, _batteryFont, batSymbol, Graphics.TEXT_JUSTIFY_LEFT);
-        	dc.drawText(25, dc.getHeight()/2-5, Graphics.FONT_TINY, batStr, Graphics.TEXT_JUSTIFY_LEFT);
+            dc.drawText(38, dc.getHeight()/2-25, _batteryFont, batSymbol, Graphics.TEXT_JUSTIFY_CENTER);
+        	dc.drawText(38, dc.getHeight()/2-5, _font, batStr, Graphics.TEXT_JUSTIFY_CENTER);
     }
     
     function GetHeartRate() 

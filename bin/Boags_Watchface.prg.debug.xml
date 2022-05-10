@@ -2,386 +2,385 @@
 <debugInfo>
 <manifest filename="C:\Users\felix\OneDrive\Documents\GarminApps\Apps\Boags_Watchface\manifest.xml"/>
 <pcToLineNum>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="1" lineNum="22" parent="globals/Boags_WatchfaceView" pc="268435456" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="1" lineNum="23" parent="globals/Boags_WatchfaceView" pc="268435460" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="1" lineNum="24" parent="globals/Boags_WatchfaceView" pc="268435478" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="1" lineNum="25" parent="globals/Boags_WatchfaceView" pc="268435507" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="1" lineNum="26" parent="globals/Boags_WatchfaceView" pc="268435517" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="2" lineNum="30" parent="globals/Boags_WatchfaceView" pc="268435544" symbol="onLayout"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="2" lineNum="34" parent="globals/Boags_WatchfaceView" pc="268435548" symbol="onLayout"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="2" lineNum="35" parent="globals/Boags_WatchfaceView" pc="268435595" symbol="onLayout"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="2" lineNum="36" parent="globals/Boags_WatchfaceView" pc="268435642" symbol="onLayout"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="2" lineNum="48" parent="globals/Boags_WatchfaceView" pc="268435689" symbol="onLayout"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="2" lineNum="65" parent="globals/Boags_WatchfaceView" pc="268435704" symbol="onLayout"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="2" lineNum="81" parent="globals/Boags_WatchfaceView" pc="268435832" symbol="onLayout"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="2" lineNum="84" parent="globals/Boags_WatchfaceView" pc="268435841" symbol="onLayout"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="3" lineNum="90" parent="globals/Boags_WatchfaceView" pc="268435906" symbol="onShow"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="95" parent="globals/Boags_WatchfaceView" pc="268435911" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="96" parent="globals/Boags_WatchfaceView" pc="268435915" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="97" parent="globals/Boags_WatchfaceView" pc="268435928" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="98" parent="globals/Boags_WatchfaceView" pc="268435945" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="101" parent="globals/Boags_WatchfaceView" pc="268435948" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="102" parent="globals/Boags_WatchfaceView" pc="268435958" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="103" parent="globals/Boags_WatchfaceView" pc="268435968" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="104" parent="globals/Boags_WatchfaceView" pc="268435975" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="107" parent="globals/Boags_WatchfaceView" pc="268435987" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="109" parent="globals/Boags_WatchfaceView" pc="268436003" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="112" parent="globals/Boags_WatchfaceView" pc="268436007" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="113" parent="globals/Boags_WatchfaceView" pc="268436020" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="115" parent="globals/Boags_WatchfaceView" pc="268436033" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="116" parent="globals/Boags_WatchfaceView" pc="268436074" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="119" parent="globals/Boags_WatchfaceView" pc="268436098" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="122" parent="globals/Boags_WatchfaceView" pc="268436112" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="125" parent="globals/Boags_WatchfaceView" pc="268436148" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="126" parent="globals/Boags_WatchfaceView" pc="268436179" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="127" parent="globals/Boags_WatchfaceView" pc="268436189" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="128" parent="globals/Boags_WatchfaceView" pc="268436212" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="131" parent="globals/Boags_WatchfaceView" pc="268436269" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="132" parent="globals/Boags_WatchfaceView" pc="268436304" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="135" parent="globals/Boags_WatchfaceView" pc="268436361" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="153" parent="globals/Boags_WatchfaceView" pc="268436394" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="159" parent="globals/Boags_WatchfaceView" pc="268436408" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="161" parent="globals/Boags_WatchfaceView" pc="268436422" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="162" parent="globals/Boags_WatchfaceView" pc="268436435" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="163" parent="globals/Boags_WatchfaceView" pc="268436477" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="167" parent="globals/Boags_WatchfaceView" pc="268436537" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="168" parent="globals/Boags_WatchfaceView" pc="268436556" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="169" parent="globals/Boags_WatchfaceView" pc="268436566" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="170" parent="globals/Boags_WatchfaceView" pc="268436607" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="174" parent="globals/Boags_WatchfaceView" pc="268436678" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="177" parent="globals/Boags_WatchfaceView" pc="268436689" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="178" parent="globals/Boags_WatchfaceView" pc="268436706" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="181" parent="globals/Boags_WatchfaceView" pc="268436717" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="182" parent="globals/Boags_WatchfaceView" pc="268436753" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="184" parent="globals/Boags_WatchfaceView" pc="268436788" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="187" parent="globals/Boags_WatchfaceView" pc="268436848" symbol="onUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="5" lineNum="192" parent="globals/Boags_WatchfaceView" pc="268436859" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="5" lineNum="196" parent="globals/Boags_WatchfaceView" pc="268436863" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="5" lineNum="197" parent="globals/Boags_WatchfaceView" pc="268436875" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="5" lineNum="199" parent="globals/Boags_WatchfaceView" pc="268436892" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="5" lineNum="200" parent="globals/Boags_WatchfaceView" pc="268436909" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="5" lineNum="201" parent="globals/Boags_WatchfaceView" pc="268436944" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="5" lineNum="203" parent="globals/Boags_WatchfaceView" pc="268437000" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="5" lineNum="204" parent="globals/Boags_WatchfaceView" pc="268437015" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="5" lineNum="205" parent="globals/Boags_WatchfaceView" pc="268437052" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="5" lineNum="206" parent="globals/Boags_WatchfaceView" pc="268437089" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="5" lineNum="209" parent="globals/Boags_WatchfaceView" pc="268437133" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="5" lineNum="210" parent="globals/Boags_WatchfaceView" pc="268437169" symbol="onPartialUpdate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="214" parent="globals/Boags_WatchfaceView" pc="268437184" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="220" parent="globals/Boags_WatchfaceView" pc="268437188" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="221" parent="globals/Boags_WatchfaceView" pc="268437205" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="222" parent="globals/Boags_WatchfaceView" pc="268437215" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="223" parent="globals/Boags_WatchfaceView" pc="268437219" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="225" parent="globals/Boags_WatchfaceView" pc="268437230" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="228" parent="globals/Boags_WatchfaceView" pc="268437243" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="229" parent="globals/Boags_WatchfaceView" pc="268437295" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="232" parent="globals/Boags_WatchfaceView" pc="268437295" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="234" parent="globals/Boags_WatchfaceView" pc="268437300" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="236" parent="globals/Boags_WatchfaceView" pc="268437310" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="238" parent="globals/Boags_WatchfaceView" pc="268437321" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="240" parent="globals/Boags_WatchfaceView" pc="268437331" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="242" parent="globals/Boags_WatchfaceView" pc="268437342" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="244" parent="globals/Boags_WatchfaceView" pc="268437352" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="246" parent="globals/Boags_WatchfaceView" pc="268437363" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="248" parent="globals/Boags_WatchfaceView" pc="268437373" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="250" parent="globals/Boags_WatchfaceView" pc="268437384" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="252" parent="globals/Boags_WatchfaceView" pc="268437394" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="254" parent="globals/Boags_WatchfaceView" pc="268437405" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="256" parent="globals/Boags_WatchfaceView" pc="268437415" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="258" parent="globals/Boags_WatchfaceView" pc="268437426" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="260" parent="globals/Boags_WatchfaceView" pc="268437436" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="262" parent="globals/Boags_WatchfaceView" pc="268437447" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="264" parent="globals/Boags_WatchfaceView" pc="268437457" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="266" parent="globals/Boags_WatchfaceView" pc="268437468" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="268" parent="globals/Boags_WatchfaceView" pc="268437478" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="270" parent="globals/Boags_WatchfaceView" pc="268437489" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="274" parent="globals/Boags_WatchfaceView" pc="268437499" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="276" parent="globals/Boags_WatchfaceView" pc="268437506" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="277" parent="globals/Boags_WatchfaceView" pc="268437542" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="278" parent="globals/Boags_WatchfaceView" pc="268437604" symbol="SetBatteryStatus"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="7" lineNum="281" parent="globals/Boags_WatchfaceView" pc="268437671" symbol="GetHeartRate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="7" lineNum="283" parent="globals/Boags_WatchfaceView" pc="268437675" symbol="GetHeartRate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="7" lineNum="284" parent="globals/Boags_WatchfaceView" pc="268437682" symbol="GetHeartRate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="7" lineNum="285" parent="globals/Boags_WatchfaceView" pc="268437707" symbol="GetHeartRate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="7" lineNum="287" parent="globals/Boags_WatchfaceView" pc="268437714" symbol="GetHeartRate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="7" lineNum="291" parent="globals/Boags_WatchfaceView" pc="268437730" symbol="GetHeartRate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="7" lineNum="292" parent="globals/Boags_WatchfaceView" pc="268437756" symbol="GetHeartRate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="7" lineNum="293" parent="globals/Boags_WatchfaceView" pc="268437775" symbol="GetHeartRate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="7" lineNum="295" parent="globals/Boags_WatchfaceView" pc="268437805" symbol="GetHeartRate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="7" lineNum="298" parent="globals/Boags_WatchfaceView" pc="268437821" symbol="GetHeartRate"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="8" lineNum="311" parent="globals/Boags_WatchfaceView" pc="268437825" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;generateHandCoordinates&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="8" lineNum="313" parent="globals/Boags_WatchfaceView" pc="268437829" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;generateHandCoordinates&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="8" lineNum="317" parent="globals/Boags_WatchfaceView" pc="268438021" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;generateHandCoordinates&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="8" lineNum="318" parent="globals/Boags_WatchfaceView" pc="268438029" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;generateHandCoordinates&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="8" lineNum="319" parent="globals/Boags_WatchfaceView" pc="268438048" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;generateHandCoordinates&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="8" lineNum="322" parent="globals/Boags_WatchfaceView" pc="268438067" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;generateHandCoordinates&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="8" lineNum="323" parent="globals/Boags_WatchfaceView" pc="268438085" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;generateHandCoordinates&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="8" lineNum="324" parent="globals/Boags_WatchfaceView" pc="268438122" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;generateHandCoordinates&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="8" lineNum="326" parent="globals/Boags_WatchfaceView" pc="268438159" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;generateHandCoordinates&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="8" lineNum="329" parent="globals/Boags_WatchfaceView" pc="268438221" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;generateHandCoordinates&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="334" parent="globals/Boags_WatchfaceView" pc="268438225" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="335" parent="globals/Boags_WatchfaceView" pc="268438229" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="336" parent="globals/Boags_WatchfaceView" pc="268438242" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="338" parent="globals/Boags_WatchfaceView" pc="268438255" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="339" parent="globals/Boags_WatchfaceView" pc="268438291" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="341" parent="globals/Boags_WatchfaceView" pc="268438308" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="343" parent="globals/Boags_WatchfaceView" pc="268438332" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="344" parent="globals/Boags_WatchfaceView" pc="268438342" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="346" parent="globals/Boags_WatchfaceView" pc="268438352" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="348" parent="globals/Boags_WatchfaceView" pc="268438396" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="349" parent="globals/Boags_WatchfaceView" pc="268438421" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="350" parent="globals/Boags_WatchfaceView" pc="268438446" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="351" parent="globals/Boags_WatchfaceView" pc="268438471" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="352" parent="globals/Boags_WatchfaceView" pc="268438496" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="356" parent="globals/Boags_WatchfaceView" pc="268438545" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="357" parent="globals/Boags_WatchfaceView" pc="268438614" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="358" parent="globals/Boags_WatchfaceView" pc="268438638" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="359" parent="globals/Boags_WatchfaceView" pc="268438663" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="361" parent="globals/Boags_WatchfaceView" pc="268438679" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="366" parent="globals/Boags_WatchfaceView" pc="268438875" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="10" lineNum="379" parent="globals/Boags_WatchfaceView" pc="268439097" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawDateString&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="10" lineNum="380" parent="globals/Boags_WatchfaceView" pc="268439101" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawDateString&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="10" lineNum="381" parent="globals/Boags_WatchfaceView" pc="268439145" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawDateString&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="10" lineNum="383" parent="globals/Boags_WatchfaceView" pc="268439221" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawDateString&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="10" lineNum="384" parent="globals/Boags_WatchfaceView" pc="268439257" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawDateString&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="11" lineNum="390" parent="globals/Boags_WatchfaceView" pc="268439300" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="11" lineNum="391" parent="globals/Boags_WatchfaceView" pc="268439304" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="11" lineNum="392" parent="globals/Boags_WatchfaceView" pc="268439338" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="11" lineNum="394" parent="globals/Boags_WatchfaceView" pc="268439372" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="11" lineNum="395" parent="globals/Boags_WatchfaceView" pc="268439396" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="11" lineNum="396" parent="globals/Boags_WatchfaceView" pc="268439419" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="11" lineNum="399" parent="globals/Boags_WatchfaceView" pc="268439441" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="11" lineNum="400" parent="globals/Boags_WatchfaceView" pc="268439464" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="11" lineNum="403" parent="globals/Boags_WatchfaceView" pc="268439486" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="11" lineNum="404" parent="globals/Boags_WatchfaceView" pc="268439509" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="11" lineNum="407" parent="globals/Boags_WatchfaceView" pc="268439531" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="11" lineNum="408" parent="globals/Boags_WatchfaceView" pc="268439554" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="11" lineNum="412" parent="globals/Boags_WatchfaceView" pc="268439589" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="12" lineNum="421" parent="globals/Boags_WatchfaceView" pc="268439617" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawBackground&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="12" lineNum="422" parent="globals/Boags_WatchfaceView" pc="268439621" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawBackground&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="12" lineNum="423" parent="globals/Boags_WatchfaceView" pc="268439634" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawBackground&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="12" lineNum="427" parent="globals/Boags_WatchfaceView" pc="268439647" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawBackground&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="12" lineNum="428" parent="globals/Boags_WatchfaceView" pc="268439657" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawBackground&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="12" lineNum="429" parent="globals/Boags_WatchfaceView" pc="268439664" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawBackground&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="13" lineNum="445" parent="globals/Boags_WatchfaceView" pc="268439692" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="13" lineNum="446" parent="globals/Boags_WatchfaceView" pc="268439696" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="13" lineNum="447" parent="globals/Boags_WatchfaceView" pc="268439706" symbol="onEnterSleep"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="14" lineNum="452" parent="globals/Boags_WatchfaceView" pc="268439723" symbol="onExitSleep"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="14" lineNum="453" parent="globals/Boags_WatchfaceView" pc="268439727" symbol="onExitSleep"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="15" lineNum="457" parent="globals/Boags_WatchfaceView" pc="268439738" symbol="turnPartialUpdatesOff"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="15" lineNum="458" parent="globals/Boags_WatchfaceView" pc="268439742" symbol="turnPartialUpdatesOff"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="16" lineNum="9" parent="globals/Boags_WatchfaceView" pc="268441059" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="16" lineNum="9" parent="globals/Boags_WatchfaceView" pc="268441059" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="17" lineNum="468" parent="globals/AnalogDelegate" pc="268439753" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="17" lineNum="469" parent="globals/AnalogDelegate" pc="268439757" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="17" lineNum="470" parent="globals/AnalogDelegate" pc="268439775" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="18" lineNum="479" parent="globals/AnalogDelegate" pc="268439786" symbol="onPowerBudgetExceeded"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="18" lineNum="480" parent="globals/AnalogDelegate" pc="268439790" symbol="onPowerBudgetExceeded"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="18" lineNum="481" parent="globals/AnalogDelegate" pc="268439820" symbol="onPowerBudgetExceeded"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="18" lineNum="482" parent="globals/AnalogDelegate" pc="268439850" symbol="onPowerBudgetExceeded"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="19" lineNum="463" parent="globals/AnalogDelegate" pc="268441097" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="19" lineNum="463" parent="globals/AnalogDelegate" pc="268441097" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceApp.mc" id="21" lineNum="7" parent="globals/Boags_WatchfaceApp" pc="268439869" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceApp.mc" id="21" lineNum="8" parent="globals/Boags_WatchfaceApp" pc="268439873" symbol="initialize"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceApp.mc" id="22" lineNum="12" parent="globals/Boags_WatchfaceApp" pc="268439892" symbol="onStart"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceApp.mc" id="23" lineNum="16" parent="globals/Boags_WatchfaceApp" pc="268439897" symbol="onStop"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceApp.mc" id="24" lineNum="20" parent="globals/Boags_WatchfaceApp" pc="268439902" symbol="getInitialView"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceApp.mc" id="24" lineNum="21" parent="globals/Boags_WatchfaceApp" pc="268439906" symbol="getInitialView"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceApp.mc" id="25" lineNum="5" parent="globals/Boags_WatchfaceApp" pc="268441078" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceApp.mc" id="25" lineNum="5" parent="globals/Boags_WatchfaceApp" pc="268441078" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceApp.mc" id="26" lineNum="26" parent="globals" pc="268439944" symbol="getApp"/>
-<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceApp.mc" id="26" lineNum="27" parent="globals" pc="268439956" symbol="getApp"/>
-<entry filename="Rez" id="28" lineNum="2" parent="globals/Rez/Drawables" pc="268441053" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="29" lineNum="9" parent="globals/Rez/Fonts" pc="268441055" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="30" lineNum="16" parent="globals/Rez/JsonData" pc="268441057" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="31" lineNum="25" parent="globals/Rez/Layouts" pc="268439973" symbol="WatchFace"/>
-<entry filename="Rez" id="31" lineNum="26" parent="globals/Rez/Layouts" pc="268439985" symbol="WatchFace"/>
-<entry filename="Rez" id="31" lineNum="27" parent="globals/Rez/Layouts" pc="268440026" symbol="WatchFace"/>
-<entry filename="Rez" id="31" lineNum="29" parent="globals/Rez/Layouts" pc="268440067" symbol="WatchFace"/>
-<entry filename="Rez" id="31" lineNum="30" parent="globals/Rez/Layouts" pc="268440172" symbol="WatchFace"/>
-<entry filename="Rez" id="31" lineNum="31" parent="globals/Rez/Layouts" pc="268440305" symbol="WatchFace"/>
-<entry filename="Rez" id="31" lineNum="32" parent="globals/Rez/Layouts" pc="268440438" symbol="WatchFace"/>
-<entry filename="Rez" id="31" lineNum="33" parent="globals/Rez/Layouts" pc="268440561" symbol="WatchFace"/>
-<entry filename="Rez" id="31" lineNum="34" parent="globals/Rez/Layouts" pc="268440684" symbol="WatchFace"/>
-<entry filename="Rez" id="31" lineNum="35" parent="globals/Rez/Layouts" pc="268440817" symbol="WatchFace"/>
-<entry filename="Rez" id="31" lineNum="37" parent="globals/Rez/Layouts" pc="268440950" symbol="WatchFace"/>
-<entry filename="Rez" id="32" lineNum="18" parent="globals/Rez/Layouts" pc="268441056" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="33" lineNum="42" parent="globals/Rez/Menus" pc="268441054" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="34" lineNum="44" parent="globals/Rez/Strings" pc="268441058" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="35" lineNum="1" parent="globals/Rez" pc="268441029" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="35" lineNum="1" parent="globals/Rez" pc="268441029" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="1" lineNum="23" parent="globals/Boags_WatchfaceView" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="1" lineNum="24" parent="globals/Boags_WatchfaceView" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="1" lineNum="25" parent="globals/Boags_WatchfaceView" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="1" lineNum="26" parent="globals/Boags_WatchfaceView" pc="268435507" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="1" lineNum="27" parent="globals/Boags_WatchfaceView" pc="268435517" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="2" lineNum="31" parent="globals/Boags_WatchfaceView" pc="268435544" symbol="onLayout"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="2" lineNum="35" parent="globals/Boags_WatchfaceView" pc="268435548" symbol="onLayout"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="2" lineNum="36" parent="globals/Boags_WatchfaceView" pc="268435595" symbol="onLayout"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="2" lineNum="37" parent="globals/Boags_WatchfaceView" pc="268435642" symbol="onLayout"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="2" lineNum="49" parent="globals/Boags_WatchfaceView" pc="268435689" symbol="onLayout"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="2" lineNum="66" parent="globals/Boags_WatchfaceView" pc="268435704" symbol="onLayout"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="2" lineNum="80" parent="globals/Boags_WatchfaceView" pc="268435794" symbol="onLayout"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="2" lineNum="83" parent="globals/Boags_WatchfaceView" pc="268435803" symbol="onLayout"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="3" lineNum="89" parent="globals/Boags_WatchfaceView" pc="268435868" symbol="onShow"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="94" parent="globals/Boags_WatchfaceView" pc="268435873" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="95" parent="globals/Boags_WatchfaceView" pc="268435877" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="96" parent="globals/Boags_WatchfaceView" pc="268435890" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="97" parent="globals/Boags_WatchfaceView" pc="268435907" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="100" parent="globals/Boags_WatchfaceView" pc="268435910" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="101" parent="globals/Boags_WatchfaceView" pc="268435920" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="102" parent="globals/Boags_WatchfaceView" pc="268435930" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="103" parent="globals/Boags_WatchfaceView" pc="268435937" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="106" parent="globals/Boags_WatchfaceView" pc="268435949" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="108" parent="globals/Boags_WatchfaceView" pc="268435965" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="111" parent="globals/Boags_WatchfaceView" pc="268435969" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="112" parent="globals/Boags_WatchfaceView" pc="268435982" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="114" parent="globals/Boags_WatchfaceView" pc="268435995" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="115" parent="globals/Boags_WatchfaceView" pc="268436036" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="118" parent="globals/Boags_WatchfaceView" pc="268436060" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="120" parent="globals/Boags_WatchfaceView" pc="268436074" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="122" parent="globals/Boags_WatchfaceView" pc="268436088" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="123" parent="globals/Boags_WatchfaceView" pc="268436107" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="124" parent="globals/Boags_WatchfaceView" pc="268436166" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="128" parent="globals/Boags_WatchfaceView" pc="268436228" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="129" parent="globals/Boags_WatchfaceView" pc="268436247" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="130" parent="globals/Boags_WatchfaceView" pc="268436257" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="131" parent="globals/Boags_WatchfaceView" pc="268436298" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="135" parent="globals/Boags_WatchfaceView" pc="268436369" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="138" parent="globals/Boags_WatchfaceView" pc="268436405" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="139" parent="globals/Boags_WatchfaceView" pc="268436436" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="140" parent="globals/Boags_WatchfaceView" pc="268436446" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="141" parent="globals/Boags_WatchfaceView" pc="268436469" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="144" parent="globals/Boags_WatchfaceView" pc="268436526" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="145" parent="globals/Boags_WatchfaceView" pc="268436561" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="148" parent="globals/Boags_WatchfaceView" pc="268436618" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="166" parent="globals/Boags_WatchfaceView" pc="268436651" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="176" parent="globals/Boags_WatchfaceView" pc="268436665" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="179" parent="globals/Boags_WatchfaceView" pc="268436676" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="180" parent="globals/Boags_WatchfaceView" pc="268436693" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="183" parent="globals/Boags_WatchfaceView" pc="268436704" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="184" parent="globals/Boags_WatchfaceView" pc="268436740" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="186" parent="globals/Boags_WatchfaceView" pc="268436775" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="4" lineNum="189" parent="globals/Boags_WatchfaceView" pc="268436835" symbol="onUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="5" lineNum="194" parent="globals/Boags_WatchfaceView" pc="268436846" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="5" lineNum="198" parent="globals/Boags_WatchfaceView" pc="268436850" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="5" lineNum="199" parent="globals/Boags_WatchfaceView" pc="268436862" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="5" lineNum="201" parent="globals/Boags_WatchfaceView" pc="268436879" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="5" lineNum="202" parent="globals/Boags_WatchfaceView" pc="268436896" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="5" lineNum="203" parent="globals/Boags_WatchfaceView" pc="268436931" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="5" lineNum="205" parent="globals/Boags_WatchfaceView" pc="268436987" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="5" lineNum="206" parent="globals/Boags_WatchfaceView" pc="268437002" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="5" lineNum="207" parent="globals/Boags_WatchfaceView" pc="268437039" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="5" lineNum="208" parent="globals/Boags_WatchfaceView" pc="268437076" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="5" lineNum="211" parent="globals/Boags_WatchfaceView" pc="268437120" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="5" lineNum="212" parent="globals/Boags_WatchfaceView" pc="268437156" symbol="onPartialUpdate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="216" parent="globals/Boags_WatchfaceView" pc="268437171" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="222" parent="globals/Boags_WatchfaceView" pc="268437175" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="223" parent="globals/Boags_WatchfaceView" pc="268437192" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="224" parent="globals/Boags_WatchfaceView" pc="268437202" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="225" parent="globals/Boags_WatchfaceView" pc="268437206" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="227" parent="globals/Boags_WatchfaceView" pc="268437217" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="230" parent="globals/Boags_WatchfaceView" pc="268437230" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="231" parent="globals/Boags_WatchfaceView" pc="268437282" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="234" parent="globals/Boags_WatchfaceView" pc="268437282" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="236" parent="globals/Boags_WatchfaceView" pc="268437287" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="238" parent="globals/Boags_WatchfaceView" pc="268437297" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="240" parent="globals/Boags_WatchfaceView" pc="268437308" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="242" parent="globals/Boags_WatchfaceView" pc="268437318" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="244" parent="globals/Boags_WatchfaceView" pc="268437329" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="246" parent="globals/Boags_WatchfaceView" pc="268437339" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="248" parent="globals/Boags_WatchfaceView" pc="268437350" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="250" parent="globals/Boags_WatchfaceView" pc="268437360" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="252" parent="globals/Boags_WatchfaceView" pc="268437371" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="254" parent="globals/Boags_WatchfaceView" pc="268437381" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="256" parent="globals/Boags_WatchfaceView" pc="268437392" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="258" parent="globals/Boags_WatchfaceView" pc="268437402" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="260" parent="globals/Boags_WatchfaceView" pc="268437413" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="262" parent="globals/Boags_WatchfaceView" pc="268437423" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="264" parent="globals/Boags_WatchfaceView" pc="268437434" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="266" parent="globals/Boags_WatchfaceView" pc="268437444" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="268" parent="globals/Boags_WatchfaceView" pc="268437455" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="270" parent="globals/Boags_WatchfaceView" pc="268437465" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="272" parent="globals/Boags_WatchfaceView" pc="268437476" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="276" parent="globals/Boags_WatchfaceView" pc="268437486" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="278" parent="globals/Boags_WatchfaceView" pc="268437493" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="279" parent="globals/Boags_WatchfaceView" pc="268437529" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="6" lineNum="280" parent="globals/Boags_WatchfaceView" pc="268437591" symbol="SetBatteryStatus"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="7" lineNum="283" parent="globals/Boags_WatchfaceView" pc="268437654" symbol="GetHeartRate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="7" lineNum="285" parent="globals/Boags_WatchfaceView" pc="268437658" symbol="GetHeartRate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="7" lineNum="286" parent="globals/Boags_WatchfaceView" pc="268437665" symbol="GetHeartRate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="7" lineNum="287" parent="globals/Boags_WatchfaceView" pc="268437690" symbol="GetHeartRate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="7" lineNum="289" parent="globals/Boags_WatchfaceView" pc="268437697" symbol="GetHeartRate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="7" lineNum="293" parent="globals/Boags_WatchfaceView" pc="268437713" symbol="GetHeartRate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="7" lineNum="294" parent="globals/Boags_WatchfaceView" pc="268437739" symbol="GetHeartRate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="7" lineNum="295" parent="globals/Boags_WatchfaceView" pc="268437758" symbol="GetHeartRate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="7" lineNum="297" parent="globals/Boags_WatchfaceView" pc="268437788" symbol="GetHeartRate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="7" lineNum="300" parent="globals/Boags_WatchfaceView" pc="268437804" symbol="GetHeartRate"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="8" lineNum="313" parent="globals/Boags_WatchfaceView" pc="268437808" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;generateHandCoordinates&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="8" lineNum="315" parent="globals/Boags_WatchfaceView" pc="268437812" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;generateHandCoordinates&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="8" lineNum="319" parent="globals/Boags_WatchfaceView" pc="268438004" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;generateHandCoordinates&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="8" lineNum="320" parent="globals/Boags_WatchfaceView" pc="268438012" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;generateHandCoordinates&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="8" lineNum="321" parent="globals/Boags_WatchfaceView" pc="268438031" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;generateHandCoordinates&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="8" lineNum="324" parent="globals/Boags_WatchfaceView" pc="268438050" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;generateHandCoordinates&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="8" lineNum="325" parent="globals/Boags_WatchfaceView" pc="268438068" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;generateHandCoordinates&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="8" lineNum="326" parent="globals/Boags_WatchfaceView" pc="268438105" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;generateHandCoordinates&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="8" lineNum="328" parent="globals/Boags_WatchfaceView" pc="268438142" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;generateHandCoordinates&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="8" lineNum="331" parent="globals/Boags_WatchfaceView" pc="268438204" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;generateHandCoordinates&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="336" parent="globals/Boags_WatchfaceView" pc="268438208" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="337" parent="globals/Boags_WatchfaceView" pc="268438212" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="338" parent="globals/Boags_WatchfaceView" pc="268438225" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="340" parent="globals/Boags_WatchfaceView" pc="268438238" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="341" parent="globals/Boags_WatchfaceView" pc="268438274" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="343" parent="globals/Boags_WatchfaceView" pc="268438291" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="345" parent="globals/Boags_WatchfaceView" pc="268438315" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="346" parent="globals/Boags_WatchfaceView" pc="268438325" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="348" parent="globals/Boags_WatchfaceView" pc="268438335" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="350" parent="globals/Boags_WatchfaceView" pc="268438379" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="351" parent="globals/Boags_WatchfaceView" pc="268438404" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="352" parent="globals/Boags_WatchfaceView" pc="268438429" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="353" parent="globals/Boags_WatchfaceView" pc="268438454" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="354" parent="globals/Boags_WatchfaceView" pc="268438479" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="358" parent="globals/Boags_WatchfaceView" pc="268438528" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="359" parent="globals/Boags_WatchfaceView" pc="268438597" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="360" parent="globals/Boags_WatchfaceView" pc="268438621" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="361" parent="globals/Boags_WatchfaceView" pc="268438646" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="363" parent="globals/Boags_WatchfaceView" pc="268438662" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="9" lineNum="368" parent="globals/Boags_WatchfaceView" pc="268438858" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="10" lineNum="381" parent="globals/Boags_WatchfaceView" pc="268439080" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawDateString&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="10" lineNum="382" parent="globals/Boags_WatchfaceView" pc="268439084" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawDateString&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="10" lineNum="383" parent="globals/Boags_WatchfaceView" pc="268439128" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawDateString&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="10" lineNum="385" parent="globals/Boags_WatchfaceView" pc="268439204" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawDateString&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="10" lineNum="386" parent="globals/Boags_WatchfaceView" pc="268439240" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawDateString&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="11" lineNum="392" parent="globals/Boags_WatchfaceView" pc="268439283" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="11" lineNum="393" parent="globals/Boags_WatchfaceView" pc="268439287" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="11" lineNum="394" parent="globals/Boags_WatchfaceView" pc="268439321" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="11" lineNum="396" parent="globals/Boags_WatchfaceView" pc="268439355" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="11" lineNum="397" parent="globals/Boags_WatchfaceView" pc="268439379" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="11" lineNum="398" parent="globals/Boags_WatchfaceView" pc="268439402" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="11" lineNum="401" parent="globals/Boags_WatchfaceView" pc="268439424" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="11" lineNum="402" parent="globals/Boags_WatchfaceView" pc="268439447" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="11" lineNum="405" parent="globals/Boags_WatchfaceView" pc="268439469" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="11" lineNum="406" parent="globals/Boags_WatchfaceView" pc="268439492" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="11" lineNum="409" parent="globals/Boags_WatchfaceView" pc="268439514" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="11" lineNum="410" parent="globals/Boags_WatchfaceView" pc="268439537" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="11" lineNum="414" parent="globals/Boags_WatchfaceView" pc="268439572" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="12" lineNum="423" parent="globals/Boags_WatchfaceView" pc="268439600" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawBackground&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="12" lineNum="424" parent="globals/Boags_WatchfaceView" pc="268439604" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawBackground&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="12" lineNum="425" parent="globals/Boags_WatchfaceView" pc="268439617" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawBackground&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="12" lineNum="429" parent="globals/Boags_WatchfaceView" pc="268439630" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawBackground&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="12" lineNum="430" parent="globals/Boags_WatchfaceView" pc="268439640" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawBackground&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="12" lineNum="431" parent="globals/Boags_WatchfaceView" pc="268439647" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawBackground&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="13" lineNum="447" parent="globals/Boags_WatchfaceView" pc="268439675" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="13" lineNum="448" parent="globals/Boags_WatchfaceView" pc="268439679" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="13" lineNum="449" parent="globals/Boags_WatchfaceView" pc="268439689" symbol="onEnterSleep"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="14" lineNum="454" parent="globals/Boags_WatchfaceView" pc="268439706" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="14" lineNum="455" parent="globals/Boags_WatchfaceView" pc="268439710" symbol="onExitSleep"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="15" lineNum="459" parent="globals/Boags_WatchfaceView" pc="268439721" symbol="turnPartialUpdatesOff"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="15" lineNum="460" parent="globals/Boags_WatchfaceView" pc="268439725" symbol="turnPartialUpdatesOff"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="16" lineNum="9" parent="globals/Boags_WatchfaceView" pc="268441042" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="16" lineNum="9" parent="globals/Boags_WatchfaceView" pc="268441042" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="17" lineNum="470" parent="globals/AnalogDelegate" pc="268439736" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="17" lineNum="471" parent="globals/AnalogDelegate" pc="268439740" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="17" lineNum="472" parent="globals/AnalogDelegate" pc="268439758" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="18" lineNum="481" parent="globals/AnalogDelegate" pc="268439769" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="18" lineNum="482" parent="globals/AnalogDelegate" pc="268439773" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="18" lineNum="483" parent="globals/AnalogDelegate" pc="268439803" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="18" lineNum="484" parent="globals/AnalogDelegate" pc="268439833" symbol="onPowerBudgetExceeded"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="19" lineNum="465" parent="globals/AnalogDelegate" pc="268441080" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceView.mc" id="19" lineNum="465" parent="globals/AnalogDelegate" pc="268441080" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceApp.mc" id="21" lineNum="7" parent="globals/Boags_WatchfaceApp" pc="268439852" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceApp.mc" id="21" lineNum="8" parent="globals/Boags_WatchfaceApp" pc="268439856" symbol="initialize"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceApp.mc" id="22" lineNum="12" parent="globals/Boags_WatchfaceApp" pc="268439875" symbol="onStart"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceApp.mc" id="23" lineNum="16" parent="globals/Boags_WatchfaceApp" pc="268439880" symbol="onStop"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceApp.mc" id="24" lineNum="20" parent="globals/Boags_WatchfaceApp" pc="268439885" symbol="getInitialView"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceApp.mc" id="24" lineNum="21" parent="globals/Boags_WatchfaceApp" pc="268439889" symbol="getInitialView"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceApp.mc" id="25" lineNum="5" parent="globals/Boags_WatchfaceApp" pc="268441061" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceApp.mc" id="25" lineNum="5" parent="globals/Boags_WatchfaceApp" pc="268441061" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceApp.mc" id="26" lineNum="26" parent="globals" pc="268439927" symbol="getApp"/>
+<entry filename="C:\\Users\\felix\\OneDrive\\Documents\\GarminApps\\Apps\\Boags_Watchface\\source\\Boags_WatchfaceApp.mc" id="26" lineNum="27" parent="globals" pc="268439939" symbol="getApp"/>
+<entry filename="Rez" id="28" lineNum="2" parent="globals/Rez/Drawables" pc="268441036" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="29" lineNum="9" parent="globals/Rez/Fonts" pc="268441038" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="30" lineNum="17" parent="globals/Rez/JsonData" pc="268441040" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="31" lineNum="26" parent="globals/Rez/Layouts" pc="268439956" symbol="WatchFace"/>
+<entry filename="Rez" id="31" lineNum="27" parent="globals/Rez/Layouts" pc="268439968" symbol="WatchFace"/>
+<entry filename="Rez" id="31" lineNum="28" parent="globals/Rez/Layouts" pc="268440009" symbol="WatchFace"/>
+<entry filename="Rez" id="31" lineNum="30" parent="globals/Rez/Layouts" pc="268440050" symbol="WatchFace"/>
+<entry filename="Rez" id="31" lineNum="31" parent="globals/Rez/Layouts" pc="268440155" symbol="WatchFace"/>
+<entry filename="Rez" id="31" lineNum="32" parent="globals/Rez/Layouts" pc="268440288" symbol="WatchFace"/>
+<entry filename="Rez" id="31" lineNum="33" parent="globals/Rez/Layouts" pc="268440421" symbol="WatchFace"/>
+<entry filename="Rez" id="31" lineNum="34" parent="globals/Rez/Layouts" pc="268440544" symbol="WatchFace"/>
+<entry filename="Rez" id="31" lineNum="35" parent="globals/Rez/Layouts" pc="268440667" symbol="WatchFace"/>
+<entry filename="Rez" id="31" lineNum="36" parent="globals/Rez/Layouts" pc="268440800" symbol="WatchFace"/>
+<entry filename="Rez" id="31" lineNum="38" parent="globals/Rez/Layouts" pc="268440933" symbol="WatchFace"/>
+<entry filename="Rez" id="32" lineNum="19" parent="globals/Rez/Layouts" pc="268441039" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="33" lineNum="43" parent="globals/Rez/Menus" pc="268441037" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="34" lineNum="45" parent="globals/Rez/Strings" pc="268441041" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="35" lineNum="1" parent="globals/Rez" pc="268441012" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="35" lineNum="1" parent="globals/Rez" pc="268441012" symbol="&lt;init&gt;"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388639" module="true" symbol="Graphics"/>
 <entry id="8390101" object="true" symbol="BufferedBitmap"/>
-<entry field="true" id="24" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;_batteryFont&gt;"/>
+<entry field="true" id="25" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;_batteryFont&gt;"/>
 <entry id="10" object="true" symbol="AnalogDelegate"/>
 <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
 <entry id="4" module="true" symbol="globals/Rez/Menus"/>
 <entry field="true" id="16" symbol="HeartSymbol"/>
-<entry field="true" id="28" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;_offscreenBuffer&gt;"/>
-<entry id="35" method="true" symbol="GetHeartRate"/>
+<entry field="true" id="29" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;_offscreenBuffer&gt;"/>
+<entry id="37" method="true" symbol="GetHeartRate"/>
 <entry id="8390098" method="true" symbol="onPowerBudgetExceeded"/>
-<entry field="true" id="23" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;_font&gt;"/>
+<entry field="true" id="24" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;_font&gt;"/>
 <entry field="true" id="14" symbol="DoNotDisturbIcon"/>
-<entry field="true" id="32" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;_partialUpdatesAllowed&gt;"/>
+<entry field="true" id="33" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;_partialUpdatesAllowed&gt;"/>
 <entry field="true" id="8390461" symbol="charging"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
 <entry id="8390139" symbol="bitmapResource"/>
-<entry field="true" id="22" symbol="AppName"/>
+<entry field="true" id="23" symbol="AppName"/>
 <entry field="true" id="20" symbol="Battery_Font"/>
 <entry id="8" module="true" symbol="globals/Rez/Strings"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
 <entry id="8389345" symbol="rezId"/>
-<entry field="true" id="27" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;_dndIcon&gt;"/>
-<entry id="38" method="true" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawDateString&gt;"/>
+<entry field="true" id="28" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;_dndIcon&gt;"/>
+<entry id="40" method="true" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawDateString&gt;"/>
 <entry id="8388648" module="true" symbol="WatchUi"/>
 <entry id="8390097" method="true" symbol="onPartialUpdate"/>
 <entry id="2" module="true" symbol="globals/Rez"/>
+<entry field="true" id="35" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;_heartRate&gt;"/>
+<entry field="true" id="34" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;_heartFont&gt;"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
 <entry field="true" id="8389065" symbol="locY"/>
 <entry field="true" id="8389064" symbol="locX"/>
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
 <entry id="8389348" symbol="font"/>
-<entry field="true" id="8389067" symbol="height"/>
-<entry field="true" id="30" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;_screenCenterPoint&gt;"/>
+<entry field="true" id="31" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;_screenCenterPoint&gt;"/>
 <entry id="13" module="true" symbol="Menus"/>
 <entry id="8389275" method="true" symbol="getApp"/>
 <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
-<entry field="true" id="8389066" symbol="width"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
 <entry id="8389376" method="true" symbol="onEnterSleep"/>
 <entry field="true" id="8389063" symbol="identifier"/>
 <entry id="8389349" symbol="justification"/>
-<entry id="39" method="true" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;"/>
+<entry id="41" method="true" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;"/>
+<entry field="true" id="21" symbol="Roboto_30px_Font"/>
 <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
-<entry field="true" id="42" symbol="&lt;globals/AnalogDelegate/&lt;&gt;_view&gt;"/>
+<entry field="true" id="44" symbol="&lt;globals/AnalogDelegate/&lt;&gt;_view&gt;"/>
 <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
 <entry id="9" object="true" symbol="Boags_WatchfaceView"/>
-<entry field="true" id="29" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;_dateBuffer&gt;"/>
-<entry field="true" id="33" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;_heartSymbol&gt;"/>
+<entry field="true" id="30" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;_dateBuffer&gt;"/>
+<entry field="true" id="22" symbol="Heart_Font"/>
 <entry id="11" object="true" symbol="Boags_WatchfaceApp"/>
 <entry id="8389377" method="true" symbol="onExitSleep"/>
 <entry id="8388644" module="true" symbol="System"/>
-<entry id="36" method="true" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;generateHandCoordinates&gt;"/>
-<entry field="true" id="25" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;_isAwake&gt;"/>
+<entry id="38" method="true" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;generateHandCoordinates&gt;"/>
+<entry field="true" id="26" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;_isAwake&gt;"/>
 <entry field="true" id="19" symbol="Steps_Font_Small"/>
 <entry id="8388645" module="true" symbol="Time"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
-<entry id="40" method="true" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawBackground&gt;"/>
+<entry id="42" method="true" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawBackground&gt;"/>
 <entry field="true" id="18" symbol="Steps_Font"/>
-<entry field="true" id="21" symbol="id_font_black_diamond"/>
 <entry id="8388640" module="true" symbol="Lang"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
-<entry field="true" id="26" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;_screenShape&gt;"/>
+<entry field="true" id="27" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;_screenShape&gt;"/>
 <entry field="true" id="17" symbol="LauncherIcon"/>
 <entry id="8388610" symbol="statics"/>
 <entry id="8389123" method="true" symbol="onShow"/>
-<entry id="37" method="true" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
+<entry id="39" method="true" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;"/>
 <entry id="8389350" module="true" symbol="globals"/>
-<entry id="41" method="true" symbol="turnPartialUpdatesOff"/>
+<entry id="43" method="true" symbol="turnPartialUpdatesOff"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
 <entry id="8388702" method="true" symbol="initialize"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry id="34" method="true" symbol="SetBatteryStatus"/>
+<entry id="36" method="true" symbol="SetBatteryStatus"/>
 <entry id="8388641" module="true" symbol="Math"/>
 <entry field="true" id="15" symbol="BoagsLogo"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry id="8389347" symbol="color"/>
-<entry field="true" id="31" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;_fullScreenRefresh&gt;"/>
+<entry field="true" id="32" symbol="&lt;globals/Boags_WatchfaceView/&lt;&gt;_fullScreenRefresh&gt;"/>
 <entry id="12" module="true" symbol="Layouts"/>
 <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
 <entry id="8388635" module="true" symbol="Application"/>
 </symbolTable>
 <localVars>
-<entry arg="true" endPc="268435905" name="dc" stackId="1" startPc="268435544"/>
-<entry endPc="268436844" name="secondHand" stackId="15" startPc="268436717"/>
-<entry endPc="268436857" name="screenWidth" stackId="2" startPc="268435915"/>
-<entry endPc="268436857" name="width" stackId="6" startPc="268435915"/>
-<entry endPc="268436857" name="minuteHandAngle" stackId="10" startPc="268435915"/>
-<entry endPc="268436857" name="logo" stackId="8" startPc="268435915"/>
-<entry endPc="268436857" name="clockTime" stackId="3" startPc="268435915"/>
-<entry endPc="268436857" name="activityInfo" stackId="12" startPc="268435915"/>
-<entry endPc="268436857" name="heartRate" stackId="11" startPc="268435915"/>
-<entry endPc="268436857" name="_stepsFont" stackId="14" startPc="268435915"/>
-<entry endPc="268436857" name="targetDc" stackId="4" startPc="268435915"/>
-<entry endPc="268436857" name="offscreenBuffer" stackId="5" startPc="268435915"/>
-<entry endPc="268436857" name="steps" stackId="13" startPc="268435915"/>
-<entry endPc="268436857" name="hourHandAngle" stackId="9" startPc="268435915"/>
-<entry endPc="268436857" name="height" stackId="7" startPc="268435915"/>
-<entry arg="true" endPc="268436858" name="dc" stackId="1" startPc="268435911"/>
-<entry endPc="268437182" name="bBoxHeight" stackId="7" startPc="268436863"/>
-<entry endPc="268437182" name="secondHand" stackId="3" startPc="268436863"/>
-<entry endPc="268437182" name="secondHandPoints" stackId="4" startPc="268436863"/>
-<entry endPc="268437182" name="bBoxWidth" stackId="6" startPc="268436863"/>
-<entry endPc="268437182" name="curClip" stackId="5" startPc="268436863"/>
-<entry endPc="268437182" name="clockTime" stackId="2" startPc="268436863"/>
-<entry arg="true" endPc="268437183" name="dc" stackId="1" startPc="268436859"/>
-<entry endPc="268437669" name="batStr" stackId="5" startPc="268437188"/>
-<entry endPc="268437669" name="charging" stackId="4" startPc="268437188"/>
-<entry endPc="268437669" name="stats" stackId="2" startPc="268437188"/>
-<entry endPc="268437669" name="pwr" stackId="3" startPc="268437188"/>
-<entry endPc="268437669" name="batSymbol" stackId="6" startPc="268437188"/>
-<entry arg="true" endPc="268437670" name="dc" stackId="1" startPc="268437184"/>
-<entry endPc="268437820" name="hrI" stackId="3" startPc="268437730"/>
-<entry endPc="268437820" name="hrs" stackId="4" startPc="268437730"/>
-<entry endPc="268437823" name="ret" stackId="1" startPc="268437675"/>
-<entry endPc="268437823" name="hr" stackId="2" startPc="268437675"/>
-<entry endPc="268438207" name="x" stackId="11" startPc="268438085"/>
-<entry endPc="268438207" name="y" stackId="12" startPc="268438085"/>
-<entry endPc="268438220" name="i" stackId="10" startPc="268438085"/>
-<entry endPc="268438223" name="result" stackId="7" startPc="268437829"/>
-<entry endPc="268438223" name="sin" stackId="9" startPc="268437829"/>
-<entry endPc="268438223" name="cos" stackId="8" startPc="268437829"/>
-<entry endPc="268438223" name="coords" stackId="6" startPc="268437829"/>
-<entry arg="true" endPc="268438224" name="handLength" stackId="3" startPc="268437825"/>
-<entry arg="true" endPc="268438224" name="tailLength" stackId="4" startPc="268437825"/>
-<entry arg="true" endPc="268438224" name="width" stackId="5" startPc="268437825"/>
-<entry arg="true" endPc="268438224" name="angle" stackId="2" startPc="268437825"/>
-<entry arg="true" endPc="268438224" name="centerPoint" stackId="1" startPc="268437825"/>
-<entry endPc="268438515" name="eY" stackId="10" startPc="268438396"/>
-<entry endPc="268438515" name="eX" stackId="9" startPc="268438396"/>
-<entry endPc="268438515" name="sY" stackId="8" startPc="268438396"/>
-<entry endPc="268438515" name="sX" stackId="7" startPc="268438396"/>
-<entry endPc="268438541" name="i" stackId="6" startPc="268438396"/>
-<entry endPc="268438541" name="innerRad" stackId="5" startPc="268438332"/>
-<entry endPc="268438541" name="outerRad" stackId="4" startPc="268438332"/>
-<entry endPc="268439082" name="upperX" stackId="14" startPc="268438638"/>
-<entry endPc="268439082" name="dx" stackId="13" startPc="268438638"/>
-<entry endPc="268439095" name="i" stackId="12" startPc="268438638"/>
-<entry endPc="268439095" name="coords" stackId="11" startPc="268438545"/>
-<entry endPc="268439095" name="height" stackId="3" startPc="268438229"/>
-<entry endPc="268439095" name="width" stackId="2" startPc="268438229"/>
-<entry arg="true" endPc="268439096" name="dc" stackId="1" startPc="268438225"/>
-<entry endPc="268439298" name="dateStr" stackId="5" startPc="268439101"/>
-<entry endPc="268439298" name="info" stackId="4" startPc="268439101"/>
-<entry arg="true" endPc="268439299" name="x" stackId="2" startPc="268439097"/>
-<entry arg="true" endPc="268439299" name="dc" stackId="1" startPc="268439097"/>
-<entry arg="true" endPc="268439299" name="y" stackId="3" startPc="268439097"/>
-<entry endPc="268439588" name="i" stackId="4" startPc="268439396"/>
-<entry endPc="268439615" name="max" stackId="3" startPc="268439304"/>
-<entry endPc="268439615" name="min" stackId="2" startPc="268439304"/>
-<entry arg="true" endPc="268439616" name="points" stackId="1" startPc="268439300"/>
-<entry endPc="268439690" name="height" stackId="3" startPc="268439621"/>
-<entry endPc="268439690" name="width" stackId="2" startPc="268439621"/>
-<entry endPc="268439690" name="offscreenBuffer" stackId="4" startPc="268439621"/>
-<entry arg="true" endPc="268439691" name="dc" stackId="1" startPc="268439617"/>
-<entry arg="true" endPc="268439785" name="view" stackId="1" startPc="268439753"/>
-<entry arg="true" endPc="268439868" name="powerInfo" stackId="1" startPc="268439786"/>
-<entry arg="true" endPc="268439896" name="state" stackId="1" startPc="268439892"/>
-<entry arg="true" endPc="268439901" name="state" stackId="1" startPc="268439897"/>
-<entry endPc="268441026" name="rez_cmp_local_bitmap_HeartSymbol" stackId="4" startPc="268439985"/>
-<entry endPc="268441026" name="rez_cmp_local_text_TimeLabel" stackId="5" startPc="268439985"/>
-<entry endPc="268441026" name="rez_cmp_local_text_LeftLabel" stackId="9" startPc="268439985"/>
-<entry endPc="268441026" name="local_Rez_Fonts_Battery_Font" stackId="3" startPc="268439985"/>
-<entry endPc="268441026" name="rez_cmp_local_text_RightLabel" stackId="10" startPc="268439985"/>
-<entry endPc="268441026" name="local_Rez_Fonts_Steps_Font" stackId="2" startPc="268439985"/>
-<entry endPc="268441026" name="rez_cmp_local_text_BottomRedLabel" stackId="7" startPc="268439985"/>
-<entry endPc="268441026" name="rez_cmp_local_text_BatteryLabel" stackId="8" startPc="268439985"/>
-<entry endPc="268441026" name="rez_cmp_local_text_TopRedLabel" stackId="6" startPc="268439985"/>
-<entry arg="true" endPc="268441027" name="dc" stackId="1" startPc="268439973"/>
+<entry arg="true" endPc="268435867" name="dc" stackId="1" startPc="268435544"/>
+<entry endPc="268436831" name="secondHand" stackId="14" startPc="268436704"/>
+<entry endPc="268436844" name="screenWidth" stackId="2" startPc="268435877"/>
+<entry endPc="268436844" name="width" stackId="6" startPc="268435877"/>
+<entry endPc="268436844" name="minuteHandAngle" stackId="13" startPc="268435877"/>
+<entry endPc="268436844" name="logo" stackId="8" startPc="268435877"/>
+<entry endPc="268436844" name="clockTime" stackId="3" startPc="268435877"/>
+<entry endPc="268436844" name="activityInfo" stackId="9" startPc="268435877"/>
+<entry endPc="268436844" name="_stepsFont" stackId="11" startPc="268435877"/>
+<entry endPc="268436844" name="targetDc" stackId="4" startPc="268435877"/>
+<entry endPc="268436844" name="offscreenBuffer" stackId="5" startPc="268435877"/>
+<entry endPc="268436844" name="steps" stackId="10" startPc="268435877"/>
+<entry endPc="268436844" name="hourHandAngle" stackId="12" startPc="268435877"/>
+<entry endPc="268436844" name="height" stackId="7" startPc="268435877"/>
+<entry arg="true" endPc="268436845" name="dc" stackId="1" startPc="268435873"/>
+<entry endPc="268437169" name="bBoxHeight" stackId="7" startPc="268436850"/>
+<entry endPc="268437169" name="secondHand" stackId="3" startPc="268436850"/>
+<entry endPc="268437169" name="secondHandPoints" stackId="4" startPc="268436850"/>
+<entry endPc="268437169" name="bBoxWidth" stackId="6" startPc="268436850"/>
+<entry endPc="268437169" name="curClip" stackId="5" startPc="268436850"/>
+<entry endPc="268437169" name="clockTime" stackId="2" startPc="268436850"/>
+<entry arg="true" endPc="268437170" name="dc" stackId="1" startPc="268436846"/>
+<entry endPc="268437652" name="batStr" stackId="5" startPc="268437175"/>
+<entry endPc="268437652" name="charging" stackId="4" startPc="268437175"/>
+<entry endPc="268437652" name="stats" stackId="2" startPc="268437175"/>
+<entry endPc="268437652" name="pwr" stackId="3" startPc="268437175"/>
+<entry endPc="268437652" name="batSymbol" stackId="6" startPc="268437175"/>
+<entry arg="true" endPc="268437653" name="dc" stackId="1" startPc="268437171"/>
+<entry endPc="268437803" name="hrI" stackId="3" startPc="268437713"/>
+<entry endPc="268437803" name="hrs" stackId="4" startPc="268437713"/>
+<entry endPc="268437806" name="ret" stackId="1" startPc="268437658"/>
+<entry endPc="268437806" name="hr" stackId="2" startPc="268437658"/>
+<entry endPc="268438190" name="x" stackId="11" startPc="268438068"/>
+<entry endPc="268438190" name="y" stackId="12" startPc="268438068"/>
+<entry endPc="268438203" name="i" stackId="10" startPc="268438068"/>
+<entry endPc="268438206" name="result" stackId="7" startPc="268437812"/>
+<entry endPc="268438206" name="sin" stackId="9" startPc="268437812"/>
+<entry endPc="268438206" name="cos" stackId="8" startPc="268437812"/>
+<entry endPc="268438206" name="coords" stackId="6" startPc="268437812"/>
+<entry arg="true" endPc="268438207" name="handLength" stackId="3" startPc="268437808"/>
+<entry arg="true" endPc="268438207" name="tailLength" stackId="4" startPc="268437808"/>
+<entry arg="true" endPc="268438207" name="width" stackId="5" startPc="268437808"/>
+<entry arg="true" endPc="268438207" name="angle" stackId="2" startPc="268437808"/>
+<entry arg="true" endPc="268438207" name="centerPoint" stackId="1" startPc="268437808"/>
+<entry endPc="268438498" name="eY" stackId="10" startPc="268438379"/>
+<entry endPc="268438498" name="eX" stackId="9" startPc="268438379"/>
+<entry endPc="268438498" name="sY" stackId="8" startPc="268438379"/>
+<entry endPc="268438498" name="sX" stackId="7" startPc="268438379"/>
+<entry endPc="268438524" name="i" stackId="6" startPc="268438379"/>
+<entry endPc="268438524" name="innerRad" stackId="5" startPc="268438315"/>
+<entry endPc="268438524" name="outerRad" stackId="4" startPc="268438315"/>
+<entry endPc="268439065" name="upperX" stackId="14" startPc="268438621"/>
+<entry endPc="268439065" name="dx" stackId="13" startPc="268438621"/>
+<entry endPc="268439078" name="i" stackId="12" startPc="268438621"/>
+<entry endPc="268439078" name="coords" stackId="11" startPc="268438528"/>
+<entry endPc="268439078" name="height" stackId="3" startPc="268438212"/>
+<entry endPc="268439078" name="width" stackId="2" startPc="268438212"/>
+<entry arg="true" endPc="268439079" name="dc" stackId="1" startPc="268438208"/>
+<entry endPc="268439281" name="dateStr" stackId="5" startPc="268439084"/>
+<entry endPc="268439281" name="info" stackId="4" startPc="268439084"/>
+<entry arg="true" endPc="268439282" name="x" stackId="2" startPc="268439080"/>
+<entry arg="true" endPc="268439282" name="dc" stackId="1" startPc="268439080"/>
+<entry arg="true" endPc="268439282" name="y" stackId="3" startPc="268439080"/>
+<entry endPc="268439571" name="i" stackId="4" startPc="268439379"/>
+<entry endPc="268439598" name="max" stackId="3" startPc="268439287"/>
+<entry endPc="268439598" name="min" stackId="2" startPc="268439287"/>
+<entry arg="true" endPc="268439599" name="points" stackId="1" startPc="268439283"/>
+<entry endPc="268439673" name="height" stackId="3" startPc="268439604"/>
+<entry endPc="268439673" name="width" stackId="2" startPc="268439604"/>
+<entry endPc="268439673" name="offscreenBuffer" stackId="4" startPc="268439604"/>
+<entry arg="true" endPc="268439674" name="dc" stackId="1" startPc="268439600"/>
+<entry arg="true" endPc="268439768" name="view" stackId="1" startPc="268439736"/>
+<entry arg="true" endPc="268439851" name="powerInfo" stackId="1" startPc="268439769"/>
+<entry arg="true" endPc="268439879" name="state" stackId="1" startPc="268439875"/>
+<entry arg="true" endPc="268439884" name="state" stackId="1" startPc="268439880"/>
+<entry endPc="268441009" name="rez_cmp_local_bitmap_HeartSymbol" stackId="4" startPc="268439968"/>
+<entry endPc="268441009" name="rez_cmp_local_text_TimeLabel" stackId="5" startPc="268439968"/>
+<entry endPc="268441009" name="rez_cmp_local_text_LeftLabel" stackId="9" startPc="268439968"/>
+<entry endPc="268441009" name="local_Rez_Fonts_Battery_Font" stackId="3" startPc="268439968"/>
+<entry endPc="268441009" name="rez_cmp_local_text_RightLabel" stackId="10" startPc="268439968"/>
+<entry endPc="268441009" name="local_Rez_Fonts_Steps_Font" stackId="2" startPc="268439968"/>
+<entry endPc="268441009" name="rez_cmp_local_text_BottomRedLabel" stackId="7" startPc="268439968"/>
+<entry endPc="268441009" name="rez_cmp_local_text_BatteryLabel" stackId="8" startPc="268439968"/>
+<entry endPc="268441009" name="rez_cmp_local_text_TopRedLabel" stackId="6" startPc="268439968"/>
+<entry arg="true" endPc="268441010" name="dc" stackId="1" startPc="268439956"/>
 </localVars>
 <annotations>
 <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="DoNotDisturbIcon"/>
@@ -391,7 +390,8 @@
 <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="Steps_Font"/>
 <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="Steps_Font_Small"/>
 <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="Battery_Font"/>
-<annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="id_font_black_diamond"/>
+<annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="Roboto_30px_Font"/>
+<annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="Heart_Font"/>
 <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
 </annotations>
 <dataEntryOffsetMappings>
@@ -400,40 +400,40 @@
 <dataEntry label="globals/Rez/Drawables" offset="245" parentId="Rez" symbolId="Drawables" type="module"/>
 <dataEntry label="globals/Rez/Menus" offset="308" parentId="Rez" symbolId="Menus" type="module"/>
 <dataEntry label="globals/Rez/Fonts" offset="339" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry label="globals/Rez/Layouts" offset="402" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry label="globals/Rez/JsonData" offset="441" parentId="Rez" symbolId="JsonData" type="module"/>
-<dataEntry label="globals/Rez/Strings" offset="472" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry label="globals/Boags_WatchfaceView" offset="511" parentId="globals" symbolId="Boags_WatchfaceView" type="class"/>
-<dataEntry label="globals/Boags_WatchfaceApp" offset="758" parentId="globals" symbolId="Boags_WatchfaceApp" type="class"/>
-<dataEntry label="globals/AnalogDelegate" offset="829" parentId="globals" symbolId="AnalogDelegate" type="class"/>
+<dataEntry label="globals/Rez/Layouts" offset="410" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="449" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="480" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/Boags_WatchfaceView" offset="519" parentId="globals" symbolId="Boags_WatchfaceView" type="class"/>
+<dataEntry label="globals/Boags_WatchfaceApp" offset="774" parentId="globals" symbolId="Boags_WatchfaceApp" type="class"/>
+<dataEntry label="globals/AnalogDelegate" offset="845" parentId="globals" symbolId="AnalogDelegate" type="class"/>
 </dataEntryOffsetMappings>
 <functions>
 <functionEntry accessMode="public" endPc="268435543" name="initialize" parent="Boags_WatchfaceView" startPc="268435456">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435905" name="onLayout" parent="Boags_WatchfaceView" startPc="268435544">
+<functionEntry accessMode="public" endPc="268435867" name="onLayout" parent="Boags_WatchfaceView" startPc="268435544">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435910" name="onShow" parent="Boags_WatchfaceView" startPc="268435906">
+<functionEntry accessMode="public" endPc="268435872" name="onShow" parent="Boags_WatchfaceView" startPc="268435868">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436858" name="onUpdate" parent="Boags_WatchfaceView" startPc="268435911">
+<functionEntry accessMode="public" endPc="268436845" name="onUpdate" parent="Boags_WatchfaceView" startPc="268435873">
 <param id="dc"/>
 <documentation><![CDATA[<div class="description"> Handle the update event<br/> <div class="param"> dc Device context</div><br/></div>]]></documentation>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437183" name="onPartialUpdate" parent="Boags_WatchfaceView" startPc="268436859">
+<functionEntry accessMode="public" endPc="268437170" name="onPartialUpdate" parent="Boags_WatchfaceView" startPc="268436846">
 <param id="dc"/>
 <documentation><![CDATA[<div class="description"> Handle the partial update event<br/> <div class="param"> dc Device context</div><br/></div>]]></documentation>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437670" name="SetBatteryStatus" parent="Boags_WatchfaceView" startPc="268437184">
+<functionEntry accessMode="public" endPc="268437653" name="SetBatteryStatus" parent="Boags_WatchfaceView" startPc="268437171">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437824" name="GetHeartRate" parent="Boags_WatchfaceView" startPc="268437671">
+<functionEntry accessMode="public" endPc="268437807" name="GetHeartRate" parent="Boags_WatchfaceView" startPc="268437654">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="private" endPc="268438224" name="&lt;globals/Boags_WatchfaceView/&lt;&gt;generateHandCoordinates&gt;" parent="Boags_WatchfaceView" startPc="268437825">
+<functionEntry accessMode="private" endPc="268438207" name="&lt;globals/Boags_WatchfaceView/&lt;&gt;generateHandCoordinates&gt;" parent="Boags_WatchfaceView" startPc="268437808">
 <param id="centerPoint"/>
 <param id="angle"/>
 <param id="handLength"/>
@@ -441,90 +441,90 @@
 <param id="width"/>
 <documentation><![CDATA[<div class="description"> This function is used to generate the coordinates of the 4 corners of the polygon<br/> used to draw a watch hand. The coordinates are generated with specified length,<br/> tail length, and width and rotated around the center point at the provided angle.<br/> 0 degrees is at the 12 o'clock position, and increases in the clockwise direction.<br/> <div class="param"> centerPoint The center of the clock</div><br/> <div class="param"> angle Angle of the hand in radians</div><br/> <div class="param"> handLength The length of the hand from the center to point</div><br/> <div class="param"> tailLength The length of the tail of the hand</div><br/> <div class="param"> width The width of the watch hand</div><br/> <div class="returns">Returns  The coordinates of the watch hand</div><br/></div>]]></documentation>
 </functionEntry>
-<functionEntry accessMode="private" endPc="268439096" name="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;" parent="Boags_WatchfaceView" startPc="268438225">
+<functionEntry accessMode="private" endPc="268439079" name="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawHashMarks&gt;" parent="Boags_WatchfaceView" startPc="268438208">
 <param id="dc"/>
 <documentation><![CDATA[<div class="description"> Draws the clock tick marks around the outside edges of the screen.<br/> <div class="param"> dc Device context</div><br/></div>]]></documentation>
 </functionEntry>
-<functionEntry accessMode="private" endPc="268439299" name="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawDateString&gt;" parent="Boags_WatchfaceView" startPc="268439097">
+<functionEntry accessMode="private" endPc="268439282" name="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawDateString&gt;" parent="Boags_WatchfaceView" startPc="268439080">
 <param id="dc"/>
 <param id="x"/>
 <param id="y"/>
 <documentation><![CDATA[<div class="description"> Draw the date string into the provided buffer at the specified location<br/> <div class="param"> dc Device context</div><br/> <div class="param"> x The x location of the text</div><br/> <div class="param"> y The y location of the text</div><br/></div>]]></documentation>
 </functionEntry>
-<functionEntry accessMode="private" endPc="268439616" name="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;" parent="Boags_WatchfaceView" startPc="268439300">
+<functionEntry accessMode="private" endPc="268439599" name="&lt;globals/Boags_WatchfaceView/&lt;&gt;getBoundingBox&gt;" parent="Boags_WatchfaceView" startPc="268439283">
 <param id="points"/>
 <documentation><![CDATA[<div class="description"> Compute a bounding box from the passed in points<br/> <div class="param"> points Points to include in bounding box</div><br/> <div class="returns">Returns  The bounding box points</div><br/></div>]]></documentation>
 </functionEntry>
-<functionEntry accessMode="private" endPc="268439691" name="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawBackground&gt;" parent="Boags_WatchfaceView" startPc="268439617">
+<functionEntry accessMode="private" endPc="268439674" name="&lt;globals/Boags_WatchfaceView/&lt;&gt;drawBackground&gt;" parent="Boags_WatchfaceView" startPc="268439600">
 <param id="dc"/>
 <documentation><![CDATA[<div class="description"> Draw the watch face background<br/> onUpdate uses this method to transfer newly rendered Buffered Bitmaps<br/> to the main display.<br/> onPartialUpdate uses this to blank the second hand from the previous<br/> second before outputting the new one.<br/> <div class="param"> dc Device context</div><br/></div>]]></documentation>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439722" name="onEnterSleep" parent="Boags_WatchfaceView" startPc="268439692">
+<functionEntry accessMode="public" endPc="268439705" name="onEnterSleep" parent="Boags_WatchfaceView" startPc="268439675">
 <documentation><![CDATA[<div class="description"> This method is called when the device re-enters sleep mode.<br/> Set the isAwake flag to let onUpdate know it should stop rendering the second hand.<br/></div>]]></documentation>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439737" name="onExitSleep" parent="Boags_WatchfaceView" startPc="268439723">
+<functionEntry accessMode="public" endPc="268439720" name="onExitSleep" parent="Boags_WatchfaceView" startPc="268439706">
 <documentation><![CDATA[<div class="description"> This method is called when the device exits sleep mode.<br/> Set the isAwake flag to let onUpdate know it should render the second hand.<br/></div>]]></documentation>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439752" name="turnPartialUpdatesOff" parent="Boags_WatchfaceView" startPc="268439738">
+<functionEntry accessMode="public" endPc="268439735" name="turnPartialUpdatesOff" parent="Boags_WatchfaceView" startPc="268439721">
 <documentation><![CDATA[<div class="description"> Turn off partial updates<br/></div>]]></documentation>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268441077" name="&lt;init&gt;" parent="Boags_WatchfaceView" startPc="268441059">
+<functionEntry accessMode="protected" endPc="268441060" name="&lt;init&gt;" parent="Boags_WatchfaceView" startPc="268441042">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439785" name="initialize" parent="AnalogDelegate" startPc="268439753">
+<functionEntry accessMode="public" endPc="268439768" name="initialize" parent="AnalogDelegate" startPc="268439736">
 <param id="view"/>
 <documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> view The analog view</div><br/></div>]]></documentation>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439868" name="onPowerBudgetExceeded" parent="AnalogDelegate" startPc="268439786">
+<functionEntry accessMode="public" endPc="268439851" name="onPowerBudgetExceeded" parent="AnalogDelegate" startPc="268439769">
 <param id="powerInfo"/>
 <documentation><![CDATA[<div class="description"> The onPowerBudgetExceeded callback is called by the system if the<br/> onPartialUpdate method exceeds the allowed power budget. If this occurs,<br/> the system will stop invoking onPartialUpdate each second, so we notify the<br/> view here to let the rendering methods know they should not be rendering a<br/> second hand.<br/> <div class="param"> powerInfo Information about the power budget</div><br/></div>]]></documentation>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268441115" name="&lt;init&gt;" parent="AnalogDelegate" startPc="268441097">
+<functionEntry accessMode="protected" endPc="268441098" name="&lt;init&gt;" parent="AnalogDelegate" startPc="268441080">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439891" name="initialize" parent="Boags_WatchfaceApp" startPc="268439869">
+<functionEntry accessMode="public" endPc="268439874" name="initialize" parent="Boags_WatchfaceApp" startPc="268439852">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439896" name="onStart" parent="Boags_WatchfaceApp" startPc="268439892">
+<functionEntry accessMode="public" endPc="268439879" name="onStart" parent="Boags_WatchfaceApp" startPc="268439875">
 <param id="state"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439901" name="onStop" parent="Boags_WatchfaceApp" startPc="268439897">
+<functionEntry accessMode="public" endPc="268439884" name="onStop" parent="Boags_WatchfaceApp" startPc="268439880">
 <param id="state"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439943" name="getInitialView" parent="Boags_WatchfaceApp" startPc="268439902">
+<functionEntry accessMode="public" endPc="268439926" name="getInitialView" parent="Boags_WatchfaceApp" startPc="268439885">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268441096" name="&lt;init&gt;" parent="Boags_WatchfaceApp" startPc="268441078">
+<functionEntry accessMode="protected" endPc="268441079" name="&lt;init&gt;" parent="Boags_WatchfaceApp" startPc="268441061">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439972" name="getApp" startPc="268439944">
+<functionEntry accessMode="public" endPc="268439955" name="getApp" startPc="268439927">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268441053" name="&lt;init&gt;" parent="Drawables" startPc="268441053">
+<functionEntry accessMode="protected" endPc="268441036" name="&lt;init&gt;" parent="Drawables" startPc="268441036">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268441055" name="&lt;init&gt;" parent="Fonts" startPc="268441055">
+<functionEntry accessMode="protected" endPc="268441038" name="&lt;init&gt;" parent="Fonts" startPc="268441038">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268441057" name="&lt;init&gt;" parent="JsonData" startPc="268441057">
+<functionEntry accessMode="protected" endPc="268441040" name="&lt;init&gt;" parent="JsonData" startPc="268441040">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268441027" name="WatchFace" parent="Layouts" startPc="268439973">
+<functionEntry accessMode="public" endPc="268441010" name="WatchFace" parent="Layouts" startPc="268439956">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268441056" name="&lt;init&gt;" parent="Layouts" startPc="268441056">
+<functionEntry accessMode="protected" endPc="268441039" name="&lt;init&gt;" parent="Layouts" startPc="268441039">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268441054" name="&lt;init&gt;" parent="Menus" startPc="268441054">
+<functionEntry accessMode="protected" endPc="268441037" name="&lt;init&gt;" parent="Menus" startPc="268441037">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268441058" name="&lt;init&gt;" parent="Strings" startPc="268441058">
+<functionEntry accessMode="protected" endPc="268441041" name="&lt;init&gt;" parent="Strings" startPc="268441041">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268441052" name="&lt;init&gt;" parent="Rez" startPc="268441029">
+<functionEntry accessMode="protected" endPc="268441035" name="&lt;init&gt;" parent="Rez" startPc="268441012">
 <documentation/>
 </functionEntry>
 </functions>

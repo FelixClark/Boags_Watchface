@@ -190,7 +190,7 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
             dc.setColor(Graphics.COLOR_RED, Graphics.COLOR_TRANSPARENT);
             var secondHand = (clockTime.sec / 60.0) * Math.PI * 2;
 
-            dc.fillPolygon(generateHandCoordinates(_screenCenterPoint, secondHand, width/2 - 10, 20, 3));
+            dc.fillPolygon(generateHandCoordinates(_screenCenterPoint, secondHand, width/2 - 15, 20, 3));
         }
 
         _fullScreenRefresh = false;
@@ -207,7 +207,7 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
         }
         var clockTime = System.getClockTime();
         var secondHand = (clockTime.sec / 60.0) * Math.PI * 2;
-        var secondHandPoints = generateHandCoordinates(_screenCenterPoint, secondHand, dc.getWidth()/2 - 10, 20, 3);
+        var secondHandPoints = generateHandCoordinates(_screenCenterPoint, secondHand, dc.getWidth()/2 - 15, 20, 3);
         // Update the clipping rectangle to the new location of the second hand.
         var curClip = getBoundingBox(secondHandPoints);
         var bBoxWidth = curClip[1][0] - curClip[0][0] + 1;

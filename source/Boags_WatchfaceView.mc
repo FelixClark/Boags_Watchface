@@ -138,14 +138,21 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
         var hourHandAngle = (((clockTime.hour % 12) * 60) + clockTime.min);
         hourHandAngle = hourHandAngle / (12 * 60.0);
         hourHandAngle = hourHandAngle * Math.PI * 2;
-        targetDc.fillPolygon(generateHandCoordinates(_screenCenterPoint, hourHandAngle, width/2-50, 0, 5));
+        targetDc.fillPolygon(generateHandCoordinates(_screenCenterPoint, hourHandAngle, width/2-65, 0, 8));
+        
+        var xh = (width/2-65)*Math.sin(hourHandAngle) ; 
+        var yh = -(width/2-65)*Math.cos(hourHandAngle);
+        targetDc.fillCircle(width/2+xh,height/2+yh,4);
 
         // Draw the minute hand.
         var minuteHandAngle = (clockTime.min / 60.0) * Math.PI * 2;
-        targetDc.fillPolygon(generateHandCoordinates(_screenCenterPoint, minuteHandAngle, width/2 - 20, 0, 5));
+        targetDc.fillPolygon(generateHandCoordinates(_screenCenterPoint, minuteHandAngle, width/2 - 15, 0, 8));
 
+        xh = (width/2-15)*Math.sin(minuteHandAngle) ; 
+        yh = -(width/2-15)*Math.cos(minuteHandAngle);
+        targetDc.fillCircle(width/2+xh,height/2+yh,4);
         // Draw the arbor in the center of the screen.
-        targetDc.fillCircle(width / 2, height / 2, 7);
+        //targetDc.fillCircle(width / 2, height / 2, 7);
 
         // If we have an offscreen buffer that we are using for the date string,
         // Draw the date into it. If we do not, the date will get drawn every update
@@ -183,7 +190,7 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
             dc.setColor(Graphics.COLOR_RED, Graphics.COLOR_TRANSPARENT);
             var secondHand = (clockTime.sec / 60.0) * Math.PI * 2;
 
-            dc.fillPolygon(generateHandCoordinates(_screenCenterPoint, secondHand, width/2 - 20, 20, 3));
+            dc.fillPolygon(generateHandCoordinates(_screenCenterPoint, secondHand, width/2 - 10, 20, 3));
         }
 
         _fullScreenRefresh = false;
@@ -200,7 +207,7 @@ class Boags_WatchfaceView extends WatchUi.WatchFace {
         }
         var clockTime = System.getClockTime();
         var secondHand = (clockTime.sec / 60.0) * Math.PI * 2;
-        var secondHandPoints = generateHandCoordinates(_screenCenterPoint, secondHand, dc.getWidth()/2 - 20, 20, 3);
+        var secondHandPoints = generateHandCoordinates(_screenCenterPoint, secondHand, dc.getWidth()/2 - 10, 20, 3);
         // Update the clipping rectangle to the new location of the second hand.
         var curClip = getBoundingBox(secondHandPoints);
         var bBoxWidth = curClip[1][0] - curClip[0][0] + 1;
